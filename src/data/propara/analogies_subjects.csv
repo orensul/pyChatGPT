@@ -1,0 +1,694 @@
+source_id,source_subject,source_text,source_field,target_subject,target_field
+7,What causs a volcano to erupt?,"Magma rises from deep in the earth.
+The magma goes into volcanos.
+The volcanos pressure the magma upwards.
+The pressure causes the magma to push through the surface of the volcano.
+The lava cools.
+The lava forms new rock.
+New magma is pressured to the surface of the volcano.
+The volcano bursts through the rock the formed after the last eruption.",Geology,What causes a tornado to form?,Atmospheric Science
+11,What happens during erosion by the ocean?,"Water from the ocean washes onto beaches in waves.
+The waves contain sediment from the ocean.
+The water and particles in it hit rocks and sand on the beach.
+The wind and current sometimes push the water and particles harder.
+Tiny parts of the rocks on the shore come off the larger rocks.
+The waves pick up sand and small rocks from the beach.
+The waves go back out into the ocean.
+The waves carry the new particles with them.
+Rocks and the beach look a little different.",Geology,What happens during erosion by rivers?,Hydrology
+13,What happens during the water cycle?,"Water from oceans, lakes, swamps, rivers, and plants turns into water vapor.
+Water vapor condenses into millions of tiny droplets that form clouds.
+Clouds lose these droplets through rain or snow, also caused precipitation.
+Precipitation is either absorbed into the ground or runs off into rivers.
+Water that was absorbed into the ground is taken up by plants.
+Plants lose water from their surfaces as vapor.
+The vapor goes back into the atmosphere.
+Water that runs off into rivers flows into ponds, lakes, or oceans.
+The water evaporates back into the atmosphere.",Earth Science,What happens during the photosynthesis process?,Plant Biology
+14,What happens during the water cycle?,"Water from oceans, lakes, rivers, swamps, and plants turns into water vapor.
+Water vapor forms droplets in clouds.
+Water droplets in clouds become rain or snow and fall.
+Some water goes into the ground.
+Some water flows down streams into rivers and oceans.",Hydrology,What happens during the photosynthesis process?,Plant Biology
+15,What happens during the water cycle?,"Water is on the earth in oceans, other bodies of water, and living creatures.
+Water evaporates from the earth.
+Water accumulates in the sky.
+The water forms clouds in the sky.
+Large amounts of water end up in bigger clouds as more water evaporates.
+The clouds become heavy from all the water.
+The water falls back to earth as rain or snow from the clouds.",Hydrology,What happens during the photosynthesis cycle?,Plant Biology
+20,How is sediment transported across the Earth?,"Sediment settles in a place due to gravity.
+The sediment breaks down into small particles.
+Wind or water picks up the sediment.
+The sediment travels along the same route as the wind or water.
+The sediment is deposited at new locations by the wind or water.
+The sediment is picked up again by new wind or water.
+The sediment travels further.
+The sediment is deposited again in a new place.",Geography,How is heat transported across the Earth?,thermodynamics
+22,How are valleys formed?,"A large rocky area is formed.
+The rocky area has a higher elevation than the surrounding areas.
+Water from precipitation falls in the area.
+The water forms a stream.
+The stream flows towards lower elevation.
+The stream becomes a river.
+The river continues to flow along the same path for a long time.
+The river erodes the rocky area that it touches.
+The eroded area cuts deeply into the rock.",Geology,How are canyons formed?,Geology
+31,How do caverns form?,"Limestone is located under the soil.
+Rain picks up carbon dioxide as it falls to earth.
+The rain falls on the soil over the limestone.
+The carbon dioxide in the rain washes through the soil.
+The carbon dioxide turns into acid.
+The acid in the rain gets to the limestone below the soil.
+The acid dissolves the limestone.
+Acid continues to erode the limestone with more rain over time.
+The eroded limestone sometimes forms caves.",Geology,How do rivers erode valleys?,Geomorphology
+34,How does igneous rock form?,"Volcanos contain magma.
+The magma is very hot.
+The magma rises toward the surface of the volcano.
+The magma cools.
+The magma starts to harden as it cools.
+The magma is sometimes released from the volcano as lava.
+The magma or lava becomes a hard rock as it solidifies.",Geology,How does sedimentary rock form?,Geology
+35,How does igneous rock form?,"Different kinds of rocks melt into magma.
+Magma cools in the crust.
+Magma goes to the surface and becomes lava.
+Lava cools.
+Cooled magma and lava become igneous rock.",Geology,How does sedimentary rock form?,geology
+36,How does igneous rock form?,"Magma rises to the surface during a volcano.
+The magma undergoes changes in temperature.
+The magma undergoes changes in pressure.
+The magma cools.
+The magma solidifies.
+The magma crystallizes.
+Igneous rock is formed.",Geology,How does sedimentary rock form?,Geology
+41,What causes an earthquake to occur?,"The earth develops cracks deep beneath the surface.
+The cracks get very long and big in some places.
+The earth places pressure against the rocks on both sides of the cracks.
+The pressure causes the rocks to press against each other very hard.
+The cracks continue to develop.
+The earth moves against itself on both sides of the cracks.
+The pressure and movement around the cracks causes the rocks to crumble in some places.
+A lot of energy is released.
+The energy causes seismic waves.
+The seismic waves move the earth in an earthquake.",Geology,What causes a volcanic eruption to occur?,Volcanology
+43,How does rain form?,"Oceans, lakes, and rivers contain water.
+The sun heats up the water.
+The water evaporates from the heat.
+The water moves to the sky as steam or as invisible vapor.
+The water forms clouds in the sky.
+The clouds become larger as they are filled with more water.
+The air is cooled.
+Water forms droplets in the clouds.
+The droplets fall to earth as rain.",Meteorology,How does snow form?,meteorology
+45,How does rain form?,"Water evaporates from the ground up to the sky.
+Water droplets are in clouds.
+Droplets combine to form bigger drops in the clouds.
+The drops get heavy.
+Gravity makes the drops fall.",Meteorology,How does snow form?,Meteorology
+48,What happens during a vocanic eruption?,"Pressure pushes up from inside the volcano.
+Lava comes out of the volcano.
+Ash clouds and rocks also come out of some volcanos.
+The things that come out of the volcano cause disturbances in the environment.
+The eruption lasts for a long time for some eruptions.
+The volcano loses the built up pressure.
+The lava and other debris stop coming out of the volcano.
+Mudslides and ash clouds cause problems after some eruptions.",Geology,What happens during a hurricane?,Meteorology
+50,How do minerals form?,"Magma comes up to the surface of the earth.
+The magma cools.
+Particles inside the magma move closer together.
+Crystals are formed.
+The crystals contain minerals.",Geology,How do crystals grow?,Mineralogy
+51,How do minerals form?,"Magma moves closer to the Earth's crust.
+The magma starts to cool.
+The cooling causes atoms in the magma to condense.
+The condensed magma solidifies.
+The solidified magma forms minerals.",Geology,How do crystals form?,Mineralogy
+52,How do earthquakes occur?,"Fault lines appear underground.
+The fault lines grow over time.
+The rocks on each side of the fault lines rub against the rocks on the other side of the fault line.
+The rocks put pressure on each other.
+The rocks break from the pressure.
+The breaking of the rocks releases a lot of energy.
+The energy causes seismic waves.
+The seismic waves make the earth shake.",Geology,How do volcanoes erupt?,Volcanology
+56,How does snow form?,"The air is cold.
+Water is in the air.
+The water forms tiny ice crystals.
+The ice crystals collide with each other.
+The ice crystals stick to each other.
+The ice crystals get bigger as more of them stick together.
+The ice crystals get too heavy to be in the air.
+The ice crystals become snowflakes.
+The snow flakes fall to the ground as snow.",Atmospheric Science,How does dew form?,Atmospheric Science
+57,How does snow form?,"Water evaporates from the ground up to the sky.
+Water droplets are in clouds.
+The air gets cold.
+Water droplets turn into ice crystals.
+Ice crystals in clouds stick together and become snowflakes.",Meteorology,How does fog form?,Meteorology
+58,How do floods happen?,"There is a lot of rain or a dam breaks.
+Water levels of a river or lake get higher.
+Water builds up on the ground.
+Water covers streets.
+Water gets deep in some places.
+Water goes into houses and other buildings.
+The rain stops or the dam is repaired.
+Water flows into streams.
+The rest of the floodwater evaporates.",Hydrology,What causes landslides?,Geology
+61,How does sediment turn into sedimentary rock?,"Minerals fill spaces between bits of sediment.
+The sediments become glued together.
+The glued together parts become hard like cement.
+The sediment becomes a big rock.
+The rocks erode slowly.
+The rocks come apart.
+The rocks become smaller rocks.
+The rocks continue to erode into smaller rocks.
+The process starts again.",Geology,How does magma turn into igneous rock?,Petrology
+64,How are ravines formed?,"An area is at a higher elevation than the surrounding area.
+Rain falls.
+Water is in the area of high elevation.
+The water creates a stream.
+The stream moves towards lower elevation.
+The stream continues along the same path for a long time.
+The soil and rocks erode where the stream touches them.
+The stream moves deeper into the soil.
+The stream is smaller than the eroded area.",Geology,How are canyons formed?,Geology
+76,How does sedimentary rock form?,"Wind or water breaks small pieces off of a rock.
+The wind or water deposits tiny rocks.
+The rocks become known as sediment.
+The layers of sediment are pressed together by other layers of sediment on top.
+Minerals from the rocks in the sediment dissolve.
+Minerals glue the sediment together into a single rock.",Geology,How does metamorphic rock form?,Geology
+78,How does sedimentary rock form?,"Wind and water erode rocks.
+The wind and water pick up sediment that came off the rocks.
+Sediment is carried to an area by the wind, water, air, or ice.
+Sediment is deposited on the same spot many times.
+The sediment piles on top of other sediment for a long time.
+The sediment near the bottom is compressed by the weight of newer sediment.
+The sediment becomes sedimentary rock as it is pushed together by the heavy weight.",Geology,How does magma cool to form igneous rock?,Geology
+80,How are mountains formed?,"Tectonic plates beneath the earth rub against each other.
+The rocks around the cracks crumble.
+An earth quake happens.
+The force of the earthquake is large.
+Rocks are pushed up out of the earth by the force.
+These rocks become volcanos.
+The volcanos erupt many times.
+The size of the rocky area grows.
+The volcano becomes dormant.
+The volcano and its eruptions become a mountain.",Geology,How are islands formed?,Geology
+112,What happens during photosynthesis?,"Carbon dioxide enters the leaf through the stomates.
+Water is absorbed by the plant and transported to the leaves.
+Sunlight is captured by the plant.
+Energy in the form of ATP is made from the sun's energy.
+Carbon dioxide, water, and ATP form sugars via the Calvin cycle.
+Oxygen is given off as a byproduct.
+Oxygen leaves the leaf through the stomates.
+Water is reused or it leaves the leaf.
+The sugars can be used by the plant to make cellulose.",Biology,What happens during cellular respiration?,Biochemistry
+113,What happens during photosynthesis?,"Chloroplasts in the leaf of the plant traps light from the sun.
+The roots absorb water and minerals from the soil.
+This combination of water and minerals flows from the stem into the leaf.
+Carbon dioxide enters the leaf.
+Light, water and minerals, and the carbon dioxide all mix together.
+This mixture forms sugar (glucose) which is what the plant eats.
+Oxygen goes out of the leaf through the stomata.",Biology,What happens during cellular respiration?,Biochemistry
+115,How are mountains formed?,"Tectonic plates smash together.
+The edges of the plates crumple up.
+The ridges are mountain ranges.
+Magma is forced to the surface.
+Magma forms a volcano.",Geology,How are islands formed?,Geology
+116,How are mountains formed?,"Movements of tectonic plates causes the creation of volcanoes.
+These volcanoes erupt.
+Volcanic mountains are formed from the eruption.
+Sometimes tectonic plates crash into one another or ride over one another.
+These plates sometimes fold and buckle, which forms Fold Mountains.
+Sometimes fault blocks are raised or tilted, and they form Block Mountains.",Geology,How is soil erosion caused?,Soil Science
+127,Describe the process of evaporation,"Water is exposed to heat energy, like sunlight.
+The water temperature is raised above 212 degrees fahrenheit.
+The heat breaks down the molecules in the water.
+These molecules escape from the water.
+The water becomes vapor.
+The vapor evaporates into the atmosphere.",Physical Science (Thermodynamics),What is the process of condensation?,Thermodynamics
+132,What do lungs do?,"You breathe oxygen into your body through the nose or mouth.
+The oxygen travels to the lungs through the windpipe.
+The air sacs in the lungs send the oxygen into the blood stream.
+The carbon dioxide in the blood stream is transferred to the air sacs.
+The lungs expel through the nose or mouth back into the environment.",Biology,What do roots do?,Plant Biology
+135,How do bats use echolocation?,"Bats fly through an area.
+The bat makes sounds with their mouth or nose.
+The sound waves travel away from the bat.
+The sound waves hit objects.
+The sound waves bounce off the objects back towards the bat.
+The bat hears the sound waves echoing off the objects.
+The bat knows where the objects are because of where the sound echoed from.
+The bat doesn't hurt itself by hitting the objects.",Animal Behavior and Acoustics,How do dolphins use sonar?,Marine Biology
+139,How do the lungs work?,"Air enters the nose or mouth and travels through the windpipe into the lungs.
+The lungs have a series of smaller and finer tubes and sacs.
+Air reaches the smallest and finest air sacs called alveoli.
+Oxygen travels from the alveoli into the blood.
+Oxygen-rich blood is carried to the heart.
+Oxygen-rich blood is pumped throughout the body by the heart.
+Cells take in the oxygen rich blood and release carbon dioxide rich blood.
+The carbon dioxide rich blood travels to the lungs.
+Carbon dioxide travels through the throat and is exhaled.",Biology,How does digestion work?,Digestive Physiology
+140,How do the lungs work?,"A person breathes in oxygen.
+The oxygen passes through the bronchial tubes to the lungs.
+The oxygen is moved into the bloodstream.
+Circulates through the body.
+The cells in the body exchange the oxygen with carbon dioxide.
+The bloodstream carries the carbon dioxide back to the lungs.
+The lungs expel the carbon dioxide through the nose and mouth.",Biology,How does the heart pump blood?,Cardiology
+141,How do the lungs work?,"You inhale.
+Your diaphragm moves down.
+Your lungs have more room.
+Your lungs fill with air.
+You exhale.
+Your diaphragm moves back up.
+Carbon dioxide is exhaled.
+You start the process over again.",Anatomy and Physiology,How do plants photosynthesize?,Plant Biology
+157,Describe the process of recycling an aluminum can,"You place aluminum cans and other products into recycling bins.
+Your town or a private company collect and transport the aluminum to a recycling facility.
+The aluminum is sorted and cleaned at the central recycling facility.
+The aluminum is melted down to remove coatings and inks.
+The melted aluminum is formed into large formations called ingots.
+The ingots are transported to another facility and rolled out to make them easier to manipulate.
+The ingots can now be turned into new aluminum products.",Recycling and Waste Management,What is the process of recycling a plastic bottle?,Environmental Science
+158,Describe the process of recycling an aluminum can,"Put the aluminum can into a recycle bin.
+The cans are transported to a facility.
+The cans are shredded by a machine.
+The cans are heated to 1400 degrees to melt them.
+The molten metal is poured into molds.
+The molds are flattened and rolled into sheets to reuse.",Recycling and Reuse,What is the process of recycling a plastic bottle?,Environmental Science
+159,Describe the process of recycling an aluminum can,"Aluminium cans are put into a recycling bin.
+Aluminium cans are then collected and taken to a treatment plant.
+At the treatment plant the aluminium is sorted and cleaned.
+Readied for reprocessing.
+The aluminum cans go through a re-melt process.
+Turned into molten aluminium.
+The molten aluminum is made into large blocks called ingots.
+The ingots are sent to mills and are rolled out into thin sheets.
+The rolls are ready to be made into new aluminum products.",Recycling and Waste Management,What is the process of recycling a plastic bottle?,Environmental Science
+165,How does the stomach work?,"Food leaves the esophagus and enters the stomach.
+The stomach churns the food.
+With the aid of stomach acids.
+The food becomes a thick liquid.
+Is then passed to the small intestine.",Gastroenterology,How does the brain work?,Neuroscience
+186,How does mold grow on bread?,"Bread is exposed to the elements.
+Bread absorbs water from the air.
+Bread absorbs warmth from the air.
+Dust particles with mold spores fall on bread.
+Mold spores start to consume the bread for energy.
+Mold colonies grow until they are visible.",Food Science,How does rust form on metal?,Corrosion Science
+206,How do muscles work?,"Muscles work by expanding and contracting.
+A muscle fiber gets a signal from its nerve.
+Proteins and chemicals release energy to either contract the muscle or relax it.
+When the muscles contracts the bones connected to he muscle are pulled closer together.
+When the muscle relaxes the bones move farther apart.",Anatomy and Physiology,How do plants photosynthesize?,Plant Biology
+207,How do muscles work?,"Electrical signals in the brain travel through nerves to muscles.
+Two types of proteins exist in filaments in the muscles.
+The filaments move when the brain instructs them to.
+The motion of the filaments cause the muscle to shorten and contract.
+Opposing pairs of muscles exist in order to provide the necessary range of motion.",Anatomy and Physiology,How do plants photosynthesize?,Plant Biology
+211,How does rain occur?,"Water droplets in clouds collide.
+Become bigger drops.
+Ice particles also grow in clouds.
+Drops and ice particles get heavier.
+Drops fall to the ground.
+Ice particles fall from the clouds.
+Ice particles fall through warmer air and melt.
+Ice reaches the ground as rain drops.",Atmospheric Sciences,How does snowfall occur?,Meteorology
+212,How does rain occur?,"Water evaporates because of the sun.
+Water vapor rises into the air as it evaporates.
+Water vapor forms clouds as it mixes with dust and impurities.
+Clouds become heavier and larger over time.
+Clouds eventually become too heavy to stay in the sky.
+Some water vapor exits clouds as rain.",Meteorology,How does snow form?,Atmospheric Sciences
+214,How do animals help plants disburse seeds?,"Animals pull a fruit off a plant or pick a fruit up from the ground.
+Animals eat the fruit.
+Animals drop some seeds onto the ground.
+Animals eat some seeds.
+The seeds are in the animal's waste.
+The waste goes onto the ground.
+There are seeds on the ground in different areas away from the plant.",Ecological Science,How do wind and water help disperse pollen?,Ecology
+221,How are clouds formed?,"Warm air rises.
+Then it expandes and cools.
+Some of the vapor condenses onto tiny pieces of dust that are floating in the air.
+Forms a tiny droplet around each dust particle.
+Billions of these droplets come together they become a visible cloud.",Atmospheric Science,How does water evaporate?,thermodynamics
+222,How are clouds formed?,"Air rises.
+Rising air cools.
+Water vapor forms.
+Water vapor condenses.
+Clouds form.",Atmospheric Science,How is ground water replenished?,Hydrology
+225,How does a battery-operated sewing machine work?,"Electricity from the battery makes the machine needle move.
+A needle with thread goes down from the machine.
+Goes through a piece of cloth.
+A hook rotates underneath.
+The hook captures the thread.
+The hook loops the thread around another thread.
+Two threads interlock around the fabric.",Textile Engineering,How does a solar-powered car work?,Alternative Energy
+229,How do dams help stop flooding?,"A dam is built in an area prone to flooding.
+A large amount of rain occurs.
+The water builds up behind the dam.
+The dam opens its floodgates when it starts to get full.
+The water flows into a river below the dam.
+The dam closes its gates.
+The dam will occasionally open its gates again to gradually release more water.
+Eventually all of the floodwater will be slowly released into the river without causing any flood damage.",Hydraulics and Water Management,How do levees help prevent flooding?,Civil Engineering
+232,How does echolocation work?,"Bats and other animals produce a high-pitched tone.
+The sound travels in waves, as sound does.
+The sound ""bounces"" off of a nearby object.
+The sound wave returns to the bat.
+The bat hears the echoed sound.
+Folds in the bat's ear and adaptations in the bat's brain enable it to determine the size, shape, and position of the other object via the properties of the returned sound waves.
+Other animals use echolocation in generally similar ways.",Animal Behavior,How does sonar work?,acoustics
+251,How do rings form inside the trunk of a tree?,"The growing season starts.
+Bark grows on a tree.
+The inside of the tree grows.
+The bark is pushed out around the tree trunk.
+The bark leaves a ring.
+The growing season slows down and ends.",Biology,How do caves form in the side of a mountain?,Geology
+252,How do rings form inside the trunk of a tree?,"The inner portion of the ring is formed during rapid spring growth.
+The tree's growth slows as the seasons change.
+The ring's outer growth is more dense.
+The growth of the tree pushes out the bark of the tree.
+The tree stops growing quickly in the winter.
+This seasonal ""pause"" in growth results in distinct rings in certain tree types.",Ecology,How do mountains form?,Geology
+253,How do plants use animals to help disburse their seeds?,"Plants make the seeds smell good, be attractive looking, and taste good.
+Animals are attracted to the seeds on the plants.
+The animals eat the seeds.
+The animals go far away from the plants.
+The animals defecate the seeds or drop them off their fur.
+The seeds grow in the new place.",Ecology,How do organisms use wind to spread their seeds?,Plant Biology
+254,How do plants use animals to help disburse their seeds?,"Plants produce seedlings.
+The animal passes by the plant.
+Eats from the plant or brushes the plant with the animal's fur.
+The seeds are eaten by the animal or become attached to the fur.
+The seed is digested by the animal and excreted into a new area.
+The seeds attached to the animal's fur fall off into a new area.",Ecology,How do animals use other animals to help disburse their offspring?,Animal Behavior
+256,Describe the process of breathing.,"You breathe in through your nose or mouth.
+The air travels through your windpipe.
+Into your lungs.
+Inside your lungs are tiny air sacs.
+The air sacs transfer the oxygen into your blood.
+The oxygen travels through your blood stream.
+The carbon dioxide from your blood stream is transferred to your air sacs.
+You breathe out and expel the carbon dioxide from your lungs.",Biology,What is the process of digestion?,Digestive physiology
+257,Describe the process of breathing.,"You inhale air through your nose and mouth.
+The air travels down into your lungs.
+Oxygen from the air goes into your bloodstream.
+Oxygen circulates throughout the body due to the heart's pumping.
+Carbon dioxide travels from the blood into the lungs.
+Carbon dioxide travels from the lungs up the windpipe.
+Carbon dioxide is exhaled.",Physiology,What is the process of photosynthesis?,Plant Physiology
+263,How does recycling work?,"People separate different materials to be recycled.
+The recyclable materials go to a recycling center.
+The recycling center further separates the materials.
+Large equipment compacts the materials into bales.
+The recyclable materials are shipped to other recycling centers.
+The other recycling centers further process the materials that center specializes in.
+The materials are purchased by manufacturers.
+The manufacturers process the recycled materials the same way they would use new materials.
+The recycled materials are incorporated into new products.",Environmental Science,How does composting work?,Environmental Science
+264,How does recycling work?,"Items are collected.
+The items are sorted.
+Trash is removed from everything else.
+Goes to a landfill.
+The items go into a baler machine for each kind of material.
+They come out as bales.
+The bales are shipped to manufacturers to use to make products.",Environmental Science,What is the process of composting?,Environmental Science
+280,How does an electromagnet work?,"Wire is wrapped around a piece of metal.
+Current is sent through the wire.
+A magnetic field is produced by the current.
+This magnetic field in the wire interacts with certain particles in the central metal part.
+The piece of metal becomes magnetized.
+The magnetism remains until the current is shut off.",Physics,How does a solar panel work?,renewable energy technology
+286,How do you make ice cubes?,"Put water in an ice cube tray.
+Put the ice cube tray in the freezer.
+Wait 5 to 6 hours.
+Take the ice cube tray out of the freezer.
+Bend the tray slightly to get the ice cubes out and into a drink.",Home Economics,How do you make popcorn?,food science
+287,How do you make ice cubes?,"Get the ice tray.
+Remove any ice cubes currently in the tray.
+Fill the tray with cold water.
+Ensure the tray is evenly filled to an appropriate level.
+Open the freezer.
+Place the tray in the freezer.
+Close the freezer door.
+Wait.",Food Preparation,How do you make popsicles?,Food Science
+290,Describe the process of pollution causing bad effects on the enviroinment.,"Pollution enters natural water sources such as rivers and lakes.
+The pollution negatively affects the water quality.
+The pollution negatively affects the health of plants and animals.
+The plants and animals have shorter, less healthy lives.
+The plants and animals do not reproduce very well.
+The number of plants and animals decreases over time.
+The quality of water gets worse and worse as there are no plants or animals to clean it.
+Eventually there is nothing living in the water and it is unusable.",Environmental Science,What are the effects of deforestation on the environment?,Ecology
+293,What happens during respiration?,"Cells obtain glucose and oxygen.
+The glucose and oxygen create carbon dioxide.
+The cells release energy.
+The cells don't have enough oxygen to repeat this.
+The cells obtain more oxygen from the air.
+The cells repeat this process.",Biology,What happens during photosynthesis?,Photosynthesis and Plant Physiology
+294,What happens during respiration?,"A person takes in oxygen through their nose or mouth.
+The oxygen travels into the body.
+Breaks down into glucose.
+Carbon dioxide is produced by the glucose breakdown.
+The carbon dioxide is exhaled out of the body through the nose or mouth.",Biology,What happens during photosynthesis?,Plant Biology
+298,Describe how bacteria can cause disease.,"Someone is infected with bacteria.
+That bacteria begins to grow and reproduce inside the cells.
+The dividing bacteria begin to make toxins.
+Those toxins damage your cells.
+Disease symptoms may begin.",Microbiology,How can viruses cause disease?,Virology
+300,Describe how bacteria can cause disease.,"Bacteria enter the body.
+Bacteria start to divide and grow.
+The uncontrolled growth takes away resources from other cells.
+Other cells cannot function properly.
+We feel unwell.
+The growth and division of bacteria produce toxins.
+Toxins harm the body.
+The body tries to react to the toxins.
+The body's natural defenses can sometimes cause us to feel unwell.",Microbiology,How can viruses cause disease?,Virology
+301,How do you use a skateboard?,"Place your non dominate foot on the front of the skateboard.
+Push off with your other foot on the ground.
+Keep pushing with your dominate leg.
+When comfortable put both feet on the skateboard.
+Balance your body as you roll on the skateboard.",Sports Science,How do you ride a bike?,Physical Education
+313,How does weathering cause rocks to break apart?,"Particles in the environment interact with rocks.
+The particles remove small pieces of the rock each time they touch the rocks.
+The particles continue to hit, brush against, or grow against the rocks.
+The rock eventually is broken apart by this contact.
+The pieces of the rock are now small rocks.
+The rock pieces are worn away into smaller and smaller pieces by the same forces.",Geology,How does erosion affect soil particles?,Geology
+315,How does weathering cause rocks to break apart?,"Plants start growing on or near the rocks.
+The roots of the growing plants start to break up the rock.
+The plant acids dissolve the rock.
+The rock is broken down into smaller pieces.
+Erosion begins.",Geology,How does erosion cause soil to change?,Geology
+316,What happens during weathering?,"Rain falls on wood.
+The rain seeps into the wood surface.
+It permeates the wood.
+When rain evaporates it leaves the wood.
+It takes the finish of the wood with it.
+The wood begins to lose it's luster.
+It begins to look bad.
+It has pieces of paint missing from the rain.
+It gets worse when it rains.
+It eventually will have no paint left.",Weathering and Decay of Materials,What happens during erosion?,geology
+317,What happens during weathering?,"Water seeps into rocks.
+The water freezes and thaws.
+Cracks form in the rocks.
+Cracks also form when rocks heat up.
+The rocks slowly break down.",Geology,What happens during erosion?,Geomorphology
+318,What happens during weathering?,"A plant grows near or on a rock.
+The plant roots begin to grow.
+Break apart the rock.
+The plant acids dissolve parts of the rock.
+The rocks are broken into more and more pieces.
+Erosion starts to occur.",Geology,What happens during erosion?,Geology
+321,Describe the process of planting crops.,"The planter must select a crop.
+The soil is prepared properly for that specific crop.
+Fertilizer is added to the soil.
+Seeds are planted in the field.
+Irrigation is set up to keep the crops properly watered.
+The crops grow.
+The crops are harvested.",Agriculture,What is the process of germinating seeds?,Plant Biology
+330,How do green plants get the energy they need?,"Sunlight shines on plants.
+Cells with chlorophyll in them capture the light energy.
+Plants absorb carbon dioxide through their stoma.
+Plants absorb water through their roots and other parts of themselves.
+Plants absorb minerals through their roots.
+Plants convert these inputs into sugars.
+Sugars can be used as energy sources.
+Oxygen and water are also produced.
+Excess water and oxygen are released through stoma and other parts of the plant.",Photosynthesis and plant biology,How do animals get the energy they need?,animal nutrition
+364,Describe how acid rain can affect the environment.,"Acid rain flows through soil.
+Chemicals from the acid rain kill plants and trees.
+The acid rainwater flows into rivers and streams.
+The chemicals kill fish.
+The chemicals kill animals that drink the water.
+Nitrogen builds up.
+Nitrogen destroys fish and shellfish populations.",Environmental Science,What are the effects of oil spills on the environment?,Environmental Science
+365,Describe how acid rain can affect the environment.,"Acid rain makes waters acidic.
+Causes them to absorb aluminum from soil.
+The water runs off from the soil into lakes, streams, etc.
+Fish and their eggs die.
+Frogs and plants die.
+Insects and other wildlife die.
+The ecosystem is out of balance, causing further problems.",Environmental Science,What are the effects of oil spills on the environment?,Environmental Science
+366,Describe how acid rain can affect the environment.,"Acid rain enters the atmosphere and lands.
+Makes water acidic.
+Kills fish.
+Kills the soils in trees.
+Leaves are also harmed.",Environmental Science,How can deforestation affect the environment?,Ecology and Environmental Science
+367,How do plants obtain and use water?,"Plants obtain water through the soil they are growing in.
+The plants roots absorb the water from the soil.
+Transport the water to the parts of the plant where the water is needed.
+The plant uses the water as part of the photosynthesis process.
+The plant creates food, called glucose, for itself.
+The plant uses water to circulate the glucose around the plant to deliver the glucose to where it's needed.",Plant Biology,How do animals obtain and use food?,Animal Nutrition
+369,How do plants obtain and use water?,"PLants have roots.
+The roots grow out.
+Roots have fibers that are attached to them.
+They attract water.
+They suck up water.
+They absorb the water.",Biology,How do animals obtain and use food?,Animal Nutrition
+377,Describe how oxygen reaches cells in the body,"Air travels into the body.
+Air reaches the lungs.
+The lungs absorb the oxygen from the air.
+The oxygen is transported by hemoglobin.
+Red blood cells are made of hemoglobin.
+Blood has a lot of red blood cells.
+The heart moves the blood throughout the body.
+Blood can bring the oxygen to different cells in the body.",Physiology,How does electricity reach appliances in a home?,Electrical Engineering
+381,How does a virus infect an animal?,"The virus finds an animal cell.
+The virus attaches to the cell's surface.
+The cell swallows the virus.
+The virus' RNA is released into the cell.
+The cell mistakenly reads the virus' RNA instead of its own.
+The cell creates new viruses.
+The animal cell releases the new viruses.
+The new viruses can infect more cells.",Virology,How does a parasite infect an animal?,Parasitology
+382,How does a virus cause disease?,"Bacteria enters the body.
+Bloodstream.
+Cells in the body are attacked.
+Cells are killed.
+Different kinds of sickness are formed.",Microbiology,How does bacteria cause disease?,Microbiology
+384,How does a virus cause disease?,"Contact is made with a virus.
+The virus enters the human or animal body.
+The virus goes to the part of the body that contains its food.
+The virus consumes part of the body or materials that the body uses.
+The virus replicates and spreads.
+The virus causes symptoms in the body as the immune system tries to expel the virus.",Virology,How does a parasite cause disease?,Parasitology
+391,How does a coal-powered power station generate electricity?,"Coal is crushed.
+The coal is burned at high temperatures inside a boiler.
+The heat generated converts water to steam.
+The steam spins propeller blades in the turbine.
+The spinning turbine rotates coils in the generator.
+The rotating coils produce electricity.
+The electricity can be sent through the power grid.",Engineering,How does a solar-powered power station generate electricity?,Renewable Energy
+392,How does a coal-powered power station generate electricity?,"The coal is pulverized to a very fine powder.
+The coal powder is mixed with hot air and blown into the firebox of the boiler.
+Water pumped through pipes inside the boiler is turned into steam by the heat.
+The pressure of the steam pushing against a series of giant blades turns the turbine shaft.
+Turbine shaft is connected to the shaft of the generator.
+The magnets inside the generator spin within wire coils to produce electricity.",Engineering,How does a solar-powered power station generate electricity?,renewable energy
+393,How does a coal-powered power station generate electricity?,"The coal is placed in a heater.
+The coal is super heated.
+The heat is connected to a boiler.
+The boiler is full of water.
+The heat turns the water into steam.
+The steam turns a generator.
+The generator produces the electricity.",Energy Engineering,How does a solar-powered power station generate electricity?,Renewable Energy Technology
+397,How does a wind-powered power station generate electricity?,"Wind passes the turbines and moves the blades.
+The shaft of the turbine spins.
+Shaft is connected to a generator.
+The generator uses the spins of the shaft to rotate a rotor.
+The rotor spins inside the core, which has magnets inside surrounded by wire loops inside.
+The spinning of the rotor in the core generates electricity.",Renewable Energy Technology,How does a solar-powered power station generate electricity?,Renewable Energy
+412,How does the human auditory system work?,"Sound waves enter your outer ear.
+Travel through ear canal to your ear drum.
+Eardrum vibrates with the incoming sound.
+Send the vibrations to three tiny bones in your middle ear.
+Bones in your middle ear amplify the vibrations.
+Send them to your inner ear.
+The vibrations activate tiny hair cells in your inner ear.
+The hair cells release neurochemical messengers.
+Your auditory nerve carries the message to your brain.
+The brain translates the message so you can understand.",Audiology,How does the human visual system work?,Neurobiology and Cognitive Science
+413,How does the human auditory system work?,"Something makes a sound and makes sound waves.
+Sound waves are ""collected"" by the the outer ear.
+Sound waves travel through the middle ear.
+Sound waves hit the eardrum.
+Vibrations from the eardrum cause very small bones in the inner ear to move.
+The small bones in the inner ear give information about sound to the cochlea.
+The cochlea helps turn the sound vibrations into nerve signals.
+The brain can take these nerve signals and can register a sound to you because of them.",Auditory Neuroscience,How does the human visual system work?,Vision Science
+416,How does a broken bone get treated and healed?,"A blood clot forms in the break.
+Cells in the clot keep foreign objects out.
+Cells create a soft callous.
+Minerals are added to the callous.
+The callous hardens because of the minerals.
+The callous is removed by other cells.
+Excess bone is removed.
+The bone is restored to its initial shape and strength.",Orthopedics,How does a broken relationship get repaired?,Interpersonal Relationships
+422,How does coal get from the ground to a power station?,"Coal is harvested from a coal mine.
+The coal is transported either by train or truck to power station.
+The coal is burned in a furnace.
+Water is turned into steam in the boiler.
+The steam is cooled in cooling towers.
+The steam turns the turbines.
+The generator makes electricity.
+The electricity is sent through transformers.",Energy Production and Distribution,How does oil get from a well to a refinery?,Petroleum Engineering
+423,How does coal get from the ground to a power station?,"A mine is excavated in the side of a mountain.
+Miners enter the mine.
+Miners remove the coal from the mine.
+The coal is placed into carts or on a conveyor belt.
+The coal is moved up to the surface.
+The coal is loaded onto a truck.
+The truck takes the coal to a power station.",Mining and Logistics,How does oil get from the ground to a refinery?,Petroleum Engineering
+424,How does oil get from the ground to a gas station?,"Crude oil is pumped from the ground.
+The crude oil is put into a tanker truck.
+The crude oil is delivered to an oil refinery.
+Impurities are removed from the oil.
+The oil is bottled.
+The bottled oil is delivered to gas stations by trucks.",Petroleum Processing,How does electricity get from a power plant to a home?,Electrical Engineering
+425,How does oil get from the ground to a gas station?,"The oil is extracted from the ground by drilling.
+Oil is transported to a refinery.
+The oil is refined into a more useful product.
+The gas made from the refining is loaded onto tank trucks.
+The trucks deliver the gas to gas stations.",Petroleum and Energy Engineering,How does food get from the farm to a grocery store?,Supply Chain Management
+433,How do you grow vegetables?,"Get some seeds.
+Pick a spot to plant them.
+Dig a hole in the dirt.
+Put the seed in the hole.
+Pour some water on the seed and hole.
+Cover up the hole.
+Press down on it.
+Spray some plant food on it.",Gardening,How do you train a pet?,Animal Training
+435,How do you grow vegetables?,"You plant vegetable seeds in the ground.
+You water the seeds.
+You wait for the seeds to sprout.
+You keep the area free of pests and weeds while the plants grow.
+You thin out the plants as they get bigger to give them space to grow.
+You remove the vegetables from the plants when they are ripe.",Horticulture,How do you propagate plants?,Plant Propagation
+436,How do you get water to boil?,"Add water to a pot.
+Put the pot over a source of heat.
+Turn the heat on.
+Wait for a few minutes.
+Begin to observe small bubbles in the water.
+Wait until the water starts to bubble a lot.
+Wait until you can see steam rising from the water.
+Turn the heat source off.
+Take the pot off of the heat source.",Science,How do you make bread in a bread machine?,Bread Making
+441,Describe how perspiration helps to keep someone cool.,"As the sweat evaporates the sweat sheds molecules into the air.
+The sweat changes into a gas.
+Heat is drawn from the sweat.
+This process draws heat from the body.
+The evaporation also cools the remaining sweat on the body.",Thermodynamics,How does evaporation help to cool an environment?,thermodynamics
+443,How do bees pollinate plants?,"A bee visits a flower.
+The pollen from that flower sticks to the bee.
+The bee flies to another flower of the same type.
+The pollen that was stuck to the bee gets brushed onto the pistil of the flower.
+The flower is pollinated.
+Will begin to develop seeds and fruit.",Pollination Biology,How do bats pollinate flowers?,Ecology

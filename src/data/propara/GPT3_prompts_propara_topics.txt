@@ -1,0 +1,195 @@
+Your task is to write an analogous process in a TARGET_DOMAIN given a SUBJECT
+Inputs: SUBJECT, TARGET_DOMAIN
+Outputs: SUBJECT, TARGET_FIELD, MAPPINGS
+
+Inputs:
+SUBJECT: How do kidneys filter blood?
+TARGET_DOMAIN: One of the fields of Engineering
+Outputs:
+SUBJECT: How does a fuel filter work?
+TARGET_FIELD: Mechanical Engineering
+MAPPINGS:
+kidney : internal combustion engine
+neophrons : fuel filters
+waste : debris
+blood : fuel
+bladder : fuel tank
+heart : engine
+
+Inputs:
+SUBJECT: How do kidneys filter blood?
+TARGET_DOMAIN: One of the fields of Natural Sciences
+Outputs:
+SUBJECT: How does a telescope filter light?
+TARGET_FIELD: Physics
+MAPPINGS:
+Blood : Light
+Kidney : Telescope
+Neophrons : Lenses
+Waste : Unwanted Reflections
+Bladder : Observer
+Urine : Filtered Reflections
+Clean Blood : Filtered Image
+
+Inputs:
+SUBJECT: How does the electrical circuit works?
+TARGET_DOMAIN: One of the fields of Engineering
+Outputs:
+SUBJECT: How does a mechanical system of water pump works?
+TARGET_FIELD: Mechanical Engineering
+MAPPINGS:
+battery : pump
+copper wire : pipe
+electrons : water
+resistor : partially closing valve
+
+Inputs:
+SUBJECT: How does the electrical circuit works?
+TARGET_DOMAIN: One of the fields of Natural Sciences
+Outputs:
+SUBJECT: How does the circulatory system work?
+TARGET_FIELD: Biology
+MAPPINGS:
+battery : heart
+copper wire : veins
+electrons : blood
+resistor : capillaries
+
+Inputs:
+SUBJECT: How does the electrical circuit works?
+TARGET_DOMAIN: One of the fields of Natural Sciences
+Outputs:
+SUBJECT: How does a catalytic reaction work?
+TARGET_FIELD: Chemistry
+MAPPINGS:
+battery : chemical reaction
+copper wire : solution
+electrons : molecules
+resistor : catalyst
+
+Inputs:
+SUBJECT: What happens during photosynthesis?
+TARGET_DOMAIN: One of the fields of Engineering
+Outputs:
+TARGET_FIELD: Electrical Engineering
+MAPPINGS:
+light : sunlight
+leaves in the plants : photovoltaic cells
+chemical energy : electrical energy.
+Calvin cycle : inverter
+sugars : alternating current
+
+Inputs:
+SUBJECT: What happens during respiration?
+TARGET_DOMAIN: One of the fields of Engineering
+Outputs:
+SUBJECT: What happens during combustion?
+TARGET_FIELD: Chemical Engineering
+MAPPINGS:
+oxygen : gasoline
+glucose : combustible gases
+carbon dioxide : exhaust
+
+Inputs:
+SUBJECT: How does the human auditory system work?
+TARGET_DOMAIN: One of the fields of Engineering
+Outputs:
+SUBJECT: How does the telephone system work?
+TARGET_FIELD: Electrical Engineering
+MAPPINGS:
+Sound source : person speaking
+Ear drum : microphone
+Electrical impulses : electrical current
+Brain : recipient's telephone speaker
+
+Inputs:
+SUBJECT: Describe the properties of water waves
+TARGET_DOMAIN: One of the fields of Natural Sciences
+Outputs:
+SUBJECT: Describe the properties of sound waves
+TARGET_FIELD: Physics
+MAPPINGS:
+Water waves : Sound waves
+Wavelength : Frequency
+Amplitude : Intensity
+Crests : Peaks
+Troughs : Valleys
+
+Inputs:
+SUBJECT: Describe how the human auditory system work
+TARGET_DOMAIN: One of the fields of Engineering
+Outputs:
+SUBJECT: Describe how a telephone system works
+TARGET_FIELD: Electrical Engineering
+MAPPINGS:
+Auditory nerve : telephone line
+Tympanic membrane : microphone
+Cochlea : sound amplifier
+Vestibulocochlear nerve : telephone receiver
+Brain : recipient's telephone speaker
+
+Inputs:
+SUBJECT: Describe the main features of an aircraft
+TARGET_DOMAIN: One of the fields of Natural Sciences
+Outputs:
+SUBJECT: Describe the main features of a bird
+TARGET_FIELD: Biology
+MAPPINGS:
+Aircraft : Bird
+Wings : Feathers
+Jet engines : Wings
+Fuselage : Torso
+Tail : Tail Feathers
+Propellers : Beak
+
+Inputs:
+SUBJECT: Describe the life cycle of a fish
+TARGET_DOMAIN: One of the fields of Natural Sciences
+Outputs:
+SUBJECT: Describe the life cycle of a butterfly
+TARGET_FIELD: Biology
+MAPPINGS:
+Fish : Butterfly
+Spawning : Egg Laying
+Larvae : Caterpillar
+Metamorphosis : Pupa
+Adult : Adult Butterfly
+
+Inputs:
+SUBJECT: How does a solar panel work?
+TARGET_DOMAIN: One of the fields of Natural Sciences
+Outputs:
+SUBJECT: How does photosynthesis work?
+TARGET_FIELD: Biology
+MAPPINGS:
+Solar Panel : Plant
+Photovoltaic Cells : Leaves
+Electricity : Chemical Energy
+Sunlight : Sunlight
+Inverter : Calvin Cycle
+
+Inputs:
+SUBJECT: Describe the graph theory in mathematics
+TARGET_DOMAIN: One of the fields of Social Sciences
+Outputs:
+SUBJECT: Describe the network theory in sociology
+TARGET_FIELD: Sociology
+MAPPINGS:
+Graph Theory : Network Theory
+Nodes : Individuals
+Edges : Relationships
+Paths : Interactions
+Connectivity : Connectivity
+
+Inputs:
+SUBJECT: Describe the solar system
+TARGET_DOMAIN: One of the fields of Social Sciences
+Outputs:
+SUBJECT: Describe the political system
+TARGET_FIELD: Political Science
+MAPPINGS:
+Sun : Government
+Planets : Political Parties
+Moons : Citizens
+Asteroids : Laws
+Comets : International Organizations

@@ -1,0 +1,150 @@
+source_subject,source_paragraph,target_subject,target_paragraph,mappings
+How does an animal cell works?,"The plasma membrane encloses the animal cell.
+It controls the movement of materials into and out of the cell.
+The Nucleus controls the activities of the cell.
+These cellular activities require energy.
+The Mitochondria extract energy from food molecules to provide the energy needs of the cell.
+Animal cells must also synthesize a variety of proteins and other organic molecules necessary for growth and repair.
+Ribosomes produce these proteins.
+The cell may use these proteins or move them out of the cell for use in other cells.
+To move organic molecules, the cell contains a complex system of membranes that create channels within the cell.
+This system of membranes is called the endoplasmic reticulum.",How does a factory works?,"Security guards monitor the doors of the factory.
+They control the movement of people into and out of the factory.
+Factory activities may be coordinated by a control center.
+These activities require energy.
+The electrical generators in the factory provide energy.
+The factory synthesizes products from raw materials using machines.
+The factory has hallways to move products through it.","plasma membrane : security guards
+animal cell : the factory
+nucleus : control center
+mitochondria : electrical generators
+proteins : products
+ribosomes : machines
+endoplasmic reticulum : hallways"
+How does the electrical circuit works?,"The battery generates electrical voltage.
+The electrical voltage causes electrons to move through the copper wire.
+The electrons pass through the resistor.
+The resistor decrease the voltage in the circuit.",How does a water pump works?,"The pump creates pressure.
+The pressure causes the water to flow through the pipe.
+Flowing water through the water pump is controlled by a partially closing valve.
+This partially closing valve reduces the flow rate of water in the pipe.","battery : pump
+copper wire : pipe
+electrons : water
+resistor : partially closing valve"
+What happens during photosynthesis?,"Carbon dioxide enters the leaf through the stomates.
+Water is absorbed by the plant and transported to the leaves.
+Sunlight is captured by the plant.
+Energy in the form of ATP is made from the sun's energy.
+Carbon dioxide, water, and ATP form sugars via the Calvin cycle.
+Oxygen is given off as a byproduct.
+Oxygen leaves the leaf through the stomates.
+Water is reused or Water leaves the leaf.
+The sugars can be used by the plant to make cellulose.",How does a solar panel works?,"Photovoltaic cells, made of semi-conductive material, capture photons from sunlight and release electrons that flow as a direct current. 
+This direct current is then converted into usable alternating current by an inverter.
+This alternating current can be fed into the electrical grid or stored for later use.","light : sunlight
+leaves in the plants : photovoltaic cells
+chemical energy : electrical energy.
+Calvin cycle : inverter 
+sugars : alternating current "
+Describe the life cycle of a fish,"A female fish lays eggs.
+Larvae hatch from the eggs.
+The larvae eat and grow.
+The larvae form into juvenile fish.
+The juvenile fish grow into adult fish.
+The adult fish mate.
+The female fish lays eggs.",Describe the life cycle of a plant,"A female plant produces seeds.
+The seeds germinate, grow into sprouts, absorb nutrients 
+from the soil and develop into young plants.
+As the young plants grow, they develop leaves, 
+stems, and roots and the process of photosynthesis starts.
+The young plants continue to grow and develop, building a strong 
+root system and producing more leaves, eventually becoming adult plants.
+These adult plants are capable of reproducing by producing flowers, 
+pollination and producing more seeds.","female fish : female plant
+eggs : seeds
+larvae : sprouts
+juvenile fish : young plants
+adult fish : adult plants",
+How do floods happen?,"There is a lot of rain or a dam breaks.
+Water levels of a river or lake get higher.
+Water builds up on the ground.
+Water covers streets.
+Water gets deep in some places.
+Water goes into houses and other buildings.
+The rain stops or the dam is repaired by an engineer.
+Water flows into streams.
+The rest of the floodwater evaporates.",How does fire happen I the forest?,"A forest fire starts when there is an abundance of dry vegetation and an ignition source, such as lightning or an unattended campfire.
+The fire spreads quickly, consuming the vegetation and creating large amounts of smoke.
+The heat of the fire causes the air to become dry, further adding to the fire's spread.
+As the fire continues, it goes deeper into the forest, 
+consuming more and more vegetation until the fire is 
+eventually put out with the help of firefighters or rain.
+The aftermath of the fire is a charred landscape with hot spots still remaining.
+The burned land eventually regrows, thanks to the ash that is a natural fertilizer and the retained moisture from the rain.","rain / dam : lightning / unattended campfire
+water : fire
+streets : vegetation
+houses and bulidings: forest
+engineer : firefighter"
+What happens during respiration?,"A person takes in oxygen through their nose or mouth.
+The oxygen travels into the body.
+Breaks down into glucose.
+Carbon dioxide is produced by the glucose breakdown.
+The carbon dioxide is exhaled out of the body through the nose or mouth.",What happens during combustion?,"A car takes in gasoline through the fuel cap.
+The gasoline is pumped into the engine.
+The gasoline is broken down into combustible gases.
+The combustible gases are ignited by spark plugs.
+The combustion creates energy and exhaust.
+The exhaust is expelled from the car through the tailpipe. ","oxygen : gasoline
+glucose : combustible gases
+carbon dioxide : exhaust"
+How does a steam engine work?,"Coal is heated in the boiler.
+The water tank over the boiler is heated.
+Creates steam.
+The steam is funneled to the piston.
+Piston uses the steam as energy.
+The piston causes the crankshaft to move.",How does a waterwheel work?,"The water flows into the wheel, causing it to turn. 
+As the wheel turns, it drives a mechanical system, 
+such as a millstone or a generator, which performs work. 
+The flow of water provides the energy to keep the wheel turning, 
+allowing it to perform work over an extended period of time. ","steam : water 
+piston : wheel
+crankshaft : mechanical system (millstone or generator) "
+How does the human auditory system work?,"Sound enters the ears of a person.
+The sound hits a drum that is inside the ear.
+The drum inside the ear converts the sound to electrical impulses.
+The electrical impulses are sent to the brain.
+The brain can decode the impulses into sound.",How does the telephone system work? ,"A person speaks into a telephone, the sound waves are transformed into an electrical current by the microphone. 
+This electrical current is sent over the telephone line to the recipient's telephone. 
+At the recipient's telephone, the electrical current is converted back into sound waves by the speaker. 
+The recipient can then hear the message that was sent from the first person.","Sound source : person speaking
+Ear drum : microphone
+Electrical impulses : electrical current
+Brain : recipient's telephone speaker"
+How do kidneys filter blood?,"The kidneys receive blood from the renal artery.
+They process it with millions of tiny nephrons.
+Remove all the waste.
+The kidneys return the blood back to the body through the renal artery.
+Send the urine with the waste to the bladder through the ureters.",How do a waste treatment filter sewage?,"Waste treatment facility receives sewage through incoming pipes.
+The facility processes the sewage using techniques like filtration and treatment to purify it before returning it to the environment.
+The residual solid waste is then conveyed away from the processing site through conveyor belts and taken to a landfill for disposal. ","Nephrons : waste treatment methods
+Renal artery : incoming pipes
+Ureters : conveyor belts
+Bladder : landfill"
+How do you use a dishwasher?,"Open the Dishwasher.
+Slide out the bottom rack.
+Take a dirty plate.
+Rinse the plate.
+Place the dish in the rack.
+Repeat leaving enough space for water to reach all items.
+Fill the soap cup.
+Turn on the dishwasher.",How do you use a washing machine?,"Open the washing machine.
+Place the clothes in the barrel.
+Select the settings for the load.
+Fill the detergent cup.
+Close the lid.
+Press the start button.
+Wait for the washing cycle to finish.
+Remove the clothes and place in the dryer.","Dishwasher : washing machine
+Bottom rack : barrel
+Plate : clothes
+Soap cup : detergent cup"

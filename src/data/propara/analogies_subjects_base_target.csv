@@ -1,0 +1,1236 @@
+base_subject,base_field,target_subject,target_field,mappings
+planet formation,Astronomy,mountain formation,Geology,"Nebula : Magma
+Dust clouds : Rocks
+Gravity : Tectonic Plates
+Planetary disc : Sediment
+Core Accretion : Erosion"
+star formation,Astronomy,mountain formation,Geology,"Nebula : Magma
+Gravity : Tectonic Plates
+Hydrogen : Sediments
+Heat : Pressure
+Light : Volcanic Activity"
+stars,Astronomy,rocks,Geology,"Light : Minerals
+Gaseous Material : Magma
+Nuclear Fusion : Volcanic Eruption
+Planetary System : Plate Tectonics
+Galaxies : Mountains"
+learning,Psychology,socialization,Sociology,"Knowledge : customs
+Memory : values
+Habits : roles
+Experience : norms
+Motivation : relationships"
+star formation,Astronomy,storm formation,Meteorology,"Nebula : clouds
+Gravity : wind
+Fusion : lightning
+Accretion disk : thunder
+Molecular cloud : precipitation"
+planetary orbits,Astronomy,plate tectonics,Geology,"Planets : Continents
+Gravity : Earth's Mantle
+Distance : Oceanic Basins
+Revolution : Drift of Plates
+Ellipses : Crustal Plates"
+reaction kinetics,Chemistry,stellar evolution,Astronomy,"Rate of reaction : rate of mass transfer
+Reactants : stars
+Products : stellar remnants
+Activation energy : energy from nuclear fusion
+Catalyst : gravitational force"
+planets,Astronomy,rocks,Geology,"Orbits : Strata
+Moons : Boulders
+Asteroids : Pebbles
+Comets : Sand
+Meteors : Dust"
+DNA,Genetics,Human behavior,Psychology,"Genes : Traits
+Chromosomes : Characteristics
+Replication : Development
+Mutation : Change
+Transcription : Expression"
+stars,Astronomy,mountains,Geology,"Gravitational force : tectonic plates
+Core : magma chamber
+Surface : rocky outcrops
+Light : visible peaks
+Age : erosion rate
+Movement : seismic activity"
+migration of birds,Zoology,global weather patterns,Meteorology,"Flyways : Jet Streams
+Stops along the way : Atmospheric Pressure Zones
+Time of year : Seasons
+Destinations : Areas of High or Low Temperature
+Speed : Wind Speed"
+metabolism,Biochemistry,rock cycle,Geology,"Food : Minerals
+Energy : Heat
+Cellular respiration : Melting
+Photosynthesis : Cooling
+Catabolism : Weathering
+Anabolism : Erosion"
+Solar System,Astronomy,Plate Tectonics,Geology,"Planets : Continents 
+Sun : Core 
+Orbits : Plates 
+Gravity : Faults 
+Asteroids : Volcanoes"
+stars,Astrophysics,rocks,Geology,"Nuclear fusion : Mineral formation
+Gravity : Weathering
+Light : Heat
+Nebulae : Magma
+Planetary systems : Strata"
+hydrocarbons,Organic Chemistry,proteins,Biochemistry,"Carbon atoms : amino acids
+Hydrogen atoms : peptide bonds
+Alkanes : primary structure
+Alkenes : secondary structure
+Alkyl groups : tertiary structure
+Aromatic rings : quaternary structure"
+DNA,Genetics,Planetary System,Astrophysics,"Nucleotide : Planet
+Gene : Solar System
+Chromosomes : Star
+Genome : Galaxy
+Organisms : Universe"
+stars,Astronomy,clouds,Meteorology,"Nebulae : Cumulus
+Planets : Cirrus
+Galaxies : Stratus
+Supernovae : Cumulonimbus
+Gravity : Wind"
+soil formation,Geology,artifact preservation,Archaeology,"Weathering : Natural Deterioration
+Erosion : Human Interaction
+Sedimentation : Protective Measures
+Mineral Growth : Conservation
+Organic Matter : Documentation"
+planets,Astronomy,countries,Geography,"Orbits : Borders
+Asteroids : Islands
+Moons : States
+Stars : Cities
+Galaxies : Continents"
+animal behavior,Zoology,human behavior,Psychology,"Instinct : Instinct
+Habituation : Learning
+Conditioning : Conditioning
+Communication : Language
+Socialization : Socialization"
+Earthquake,Geology,Tornado,Meteorology,"Seismic waves : Wind
+Earth's crust : Atmosphere
+Fault line : Vortex
+Tremors : Rotating winds
+Shockwaves : Funnel clouds"
+Bee behavior,Entomology,Group behavior,Sociology,"Pollination : Networking
+Hive : Community
+Queen : Leader
+Workers : Followers
+Dance : Communication"
+atomic structure,Chemistry,star formation,Astrophysics,"Electrons : dust
+Protons : gas
+Nucleus : protostar
+Atoms : star
+Energy : radiation"
+cell division,Biology,continental drift,Geography,"Chromosomes : Plates
+Mitosis : Movement
+Cell membrane : Boundaries
+Nucleus : Continents
+Cytokinesis : Subduction"
+atomic structure,Chemistry,weather patterns,Meteorology,"Atom : Atmospheric system
+Nucleus : Low pressure system
+Electron : High pressure system
+Proton : Temperature
+Neutron : Wind"
+solar system,Astronomy,sedimentary rock,Geology,"Sun : Sediment
+Planets : Layers
+Orbit : Stratification
+Asteroids : Particles
+Gravity : Pressure"
+DNA,Genetics,chemical bonds,Chemistry,"Genes : Molecules
+Base pairs : Atoms
+Replication : Bonding
+Mutation : Reactions
+Chromosomes : Compounds"
+DNA,Biochemistry,currency,Economics,"Replication : Printing
+Sequence : Denomination
+Base pairs : Coins
+Mutations : Counterfeiting
+Transcription : Exchange"
+stars,Astronomy,weather,Meteorology,"Nebula : Clouds
+Fusion : Wind
+Gravity : Pressure
+Light : Sunlight
+Movement : Temperature"
+solar system,Astronomy,world map,Geography,"Sun : North Pole
+Planets : Continents
+Moons : Islands
+Orbits : Ocean Currents
+Asteroid Belt : Equator"
+learning process,Psychology,robot behavior,Robotics,"Cognitive : Artificial Intelligence
+Associative : Sensors
+Behavioral : Programming
+Conditioning : Feedback Loops
+Memory : Storage Capacity"
+solar system,Astronomy,mountain range,Geology,"Planets : Peaks
+Sun : Base
+Orbits : Valleys
+Asteroids : Crags
+Comets : Slopes"
+DNA,Genetics,programming language,Computer Science,"Genes : Variables
+Chromosomes : Algorithms
+Nucleosomes : Logic
+Ribosomes : Syntax
+Proteins : Operators"
+social interaction,Sociology,government,Political Science,"Dialogue : debate
+Interaction : legislation
+Collaboration : policy
+Empathy : diplomacy
+Trust : democracy"
+DNA,Biochemistry,computer code,Computer Science,"Nucleotides : Lines of code
+Genes : Functions
+Base pairs : Variables
+Chromosomes : Files
+Replication : Copying and pasting"
+rock formation,Geology,planetary system,Astronomy,"Sedimentary : Terrestrial
+Metamorphic : Jovian
+Igneous : Asteroid
+Layers : Planets
+Folds : Moons"
+DNA,Genetics,computer programming,Computer Science,"Base Pairs : Syntax
+Genes : Functions
+Chromosomes : Algorithms
+Replication : Debugging
+Mutation : Modification"
+Plate Tectonics,Geology,Airplane Design,Aeronautics,"Continental Drift : Aircraft Body Design
+Earth's Crust : Wing Design
+Magma : Engine Design
+Volcanoes : Flight Controls
+Mountain Ranges : Weight Distribution"
+air pressure,Meteorology,gravity,Astrophysics,"Atmosphere : Universe
+High pressure : High gravity
+Low pressure : Low gravity
+Wind : Celestial bodies
+Turbulence : Orbit"
+hydrocarbons,Organic Chemistry,fossil fuels,Geology,"Carbon : Petroleum
+Hydrogen : Natural Gas
+Alkanes : Coal
+Alkenes : Shale
+Alkynes : Oil Sands"
+DNA,Genetics,Artificial Intelligence,Robotics,"Gene : Algorithm
+Nucleotide : Programming Language
+Replication : Machine Learning
+Protein Synthesis : Autonomous Decision Making
+Mutation : Error Correction"
+greenhouse effect,Climatology,planetary orbits,Astronomy,"Carbon dioxide : Gravity
+Sun's energy : Planet
+Solar radiation : Orbit
+Atmospheric gases : Mass
+Global warming : Centripetal force"
+star formation,Astrophysics,chemical reactions,Chemistry,"Gas clouds : molecules
+Gravity : bonds
+Nuclear fusion : breakdown
+Ionization : reaction
+Young stars : products"
+chemical reactions,Chemistry,tectonic plates,Geology,"Reactants : Plates
+Product : Earthquakes
+Enzyme : Friction
+Catalyst : Subduction
+Heat : Magma"
+planetary orbits,Astronomy,continental drift,Geography,"Gravitational force : Earth's tectonic plates
+Planets : Continents
+Elliptical orbits : Movement of the plates
+Sun : Core of the Earth
+Orbital speed : Speed of the drift"
+stars,Astronomy,fossils,Geology,"Gravitational pull : sedimentary pressure
+Nuclear fusion : organic remains
+Nebulas : geological layers
+Planets : ancient organisms
+Light : petrified remains"
+rock cycle,Geology,food cycle,Ecology,"Weathering : Prey
+Erosion : Predation
+Igneous Formation : Reproduction
+Sedimentary Formation : Decomposition
+Metamorphic Formation : Respiration"
+photosynthesis,Biology,data processing,Computer Science,"Light : Input
+Carbon dioxide : Raw Data
+Chlorophyll : Processor
+Water : Memory
+Glucose : Output
+Oxygen : Results"
+chemical reactions,Chemistry,stellar evolution,Astronomy,"Atoms : Stars
+Molecules : Galaxies
+Energy : Energy released by stars
+Bonds : Gravitational pull
+Reactants : Raw materials"
+atomic structure,Chemistry,star system,Astronomy,"Atom : Star
+Proton : Core
+Electron : Planet
+Nucleus : Solar System
+Atomic Orbitals : Planetary Orbits"
+rock formation,Geology,chemical reaction,Chemistry,"Crystals : molecules 
+Pressure : heat
+Folding : mixing
+Layers : products
+Melting : reaction"
+human behavior,Psychology,social norms,Sociology,"Thoughts : Beliefs
+Emotions : Values
+Actions : Practices
+Motives : Traditions
+Impulses : Customs"
+acid-base reactions,Chemistry,social interaction,Sociology,"Acid : Aggressor
+Base : Victim
+Reaction : Response
+Products : Outcome
+Equilibrium : Balance"
+Cell Biology,Biology,Rocks,Geology,"Nucleus : Core
+Cell Membrane : Crust
+Ribosomes : Minerals
+Mitochondria : Magma
+Cytoplasm : Elements"
+stars,Astronomy,minerals,Geology,"Nebula : Magma
+Nuclear Fusion : Formation
+Gravity : Pressure
+Light : Crystal Structure
+Heat : Hardness"
+neuron,Neuroscience,transistor,Electronics,"Dendrites : Input Lead
+Cell Body : Silicon Chip
+Axon : Output Lead
+Synapse : Gate
+Neurotransmitters : Voltage"
+Milky Way galaxy,Astronomy,mountain range,Geology,"Star : Peak
+Nebula : Valley
+Interstellar medium : Plateau
+Dust : Rocky soil
+Gravity : Erosion"
+Earth's crust,Geology,Solar System,Astronomy,"Continental plates : Planets
+Tectonic activity : Rotations
+Magma : Gravity
+Rock formations : Moons
+Fossils : Asteroids"
+DNA,Molecular Biology,stars,Astrophysics,"Genes : elements
+Nucleotides : protons
+Base pairs : neutrons
+Chromosomes : nuclei
+Cells : stars"
+stellar evolution,Astronomy,rock cycle,Geology,"Nuclear fusion : melting
+Nebula : magma
+Protostar : intrusive rocks
+Main Sequence Star : sedimentary rocks
+Red Giant : metamorphic rocks 
+White Dwarf : uplifting and erosion"
+chemical equation,Chemistry,star formation,Astronomy,"Reactants : Dust and Gas
+Products : New Star
+Molecules : Interstellar Medium
+Energy : Heat and Pressure
+Atom : Interstellar Cloud"
+rock formations,Geology,cloud formation,Meteorology,"Mineral composition : Atmospheric composition
+Weathering : Condensation
+Stratification : Rising air
+Volcanic activity : Fronts
+Folding : Wind patterns"
+clouds,Meteorology,sedimentary rocks,Geology,"Condensation : Compaction
+Precipitation : Cementation
+Rain : Sandstone
+Fog : Shale
+Ice : Limestone"
+Social norms,Sociology,Financial regulations,Economics,"Cultural rules : Government laws
+Acceptable behavior : Tax regulations
+Sanctions : Penalties
+Expectations : Financial rules
+Values : Monetary policies"
+DNA,Genetics,Protein,Biochemistry,"Nucleotide : Amino Acid
+Base pair : Polypeptide
+Gene : Enzymes
+Replication : Synthesis
+RNA : Structural Proteins"
+atomic structure,Chemistry,electromagnetism,Physics,"Protons : Electric Charge
+Neutrons : Magnetic Field
+Electrons : Electric Current
+Atoms : Electromagnetic Field
+Bonds : Forces"
+planets,Solar System Astronomy,continents,Geography,"Sun : Earth
+Orbits : Latitudes and Longitudes
+Gravitational Forces : Tectonic Plates
+Atmospheres : Climate
+Surface Features : Physical Features"
+DNA,Biology,Programming,Computer Science,"Gene : Function
+Nucleotide : Line of Code
+Chromosome : Program
+Replication : Copying and Pasting
+Mutation : Debugging"
+aircraft,Aeronautics,bird,Zoology,"Aircraft : Bird
+Wings : Feathers
+Engines : Wings
+Fuselage : Body
+Cockpit : Head
+Propeller : Beak"
+language,Anthropology,equations,Mathematics,"Grammar : structure
+Syntax : variables
+Semantics : values
+Vocabulary : operators
+Symbols : solutions"
+DNA,Genetics,Binary code,Computer Science,"Gene : Bit
+Chromosomes : Byte
+Nucleotide : Binary Digit
+Molecule : String of Bits
+DNA : Binary Code"
+Rayleigh Scattering,Optics,Rainbows,Meteorology,"Molecular scattering : Reflection & Refraction 
+Atmospheric particles : Raindrops
+Sunlight : Sun's rays
+Longer wavelength : Red, Orange, Yellow
+Shorter wavelength : Blue, Violet"
+culture,Sociology,language,Anthropology,"Customs : Dialects
+Social Structure : Vocabulary
+Beliefs : Grammar
+Values : Regional Accents
+Norms : Syntax"
+earthquake,Geology,meteor shower,Astronomy,"Fault line : Comet's orbit
+Energy release : Light from burning meteors
+Seismic waves : Meteor fragments
+Earthquake epicenter : Point of origin of the meteor shower
+Aftershock : Afterglow of the meteor shower"
+electromagnetism,Physics,black holes,Astronomy,"Electric fields : gravity
+Magnetic fields : space-time
+Electric current : matter
+Faraday's law : Einstein's theory of relativity
+Induction : event horizon"
+solar system,Astronomy,rock cycle,Geology,"Sun : molten magma
+Planets : cooling magma
+Asteroids : sedimentary rocks
+Comets : metamorphic rocks
+Meteorites : igneous rocks"
+solar system,Astronomy,continent,Geography,"Sun : Landmass
+Planets : Countries
+Orbit : Borders
+Asteroid Belt : Oceans
+Comets : Islands"
+planetary orbits,Astronomy,tectonic plates,Geology,"Gravitational pull : Earth's mantle
+Planetary rotation : movement of crust
+Elliptical path : boundaries between plates
+Axial tilt : direction of movement
+Period of revolution : speed of movement"
+chemical bonds,Chemistry,planetary orbits,Astronomy,"Atoms : Planets
+Molecules : Solar System
+Ionic : Gravitational
+Covalent : Elliptical
+Hydrogen : Orbital"
+stars,Astronomy,elements,Chemistry,"Nebulae : Atomic Nuclei
+Gravity : Atomic Bonds
+Light : Electrons
+Constellations : Molecules
+Galaxies : Compounds"
+atomic structure,Chemistry,solar system,Astronomy,"Proton : Sun
+Neutron : Planets
+Electron : Moons
+Nucleus : Asteroids
+Atom : Comets"
+animal habitat,Zoology,geographic region,Geography,"Animals : People
+Food : Resources
+Climate : Environment
+Terrain : Landforms
+Geographic area : Political boundaries"
+Photosynthesis,Biology,Light Refraction,Physics,"Light : Rays
+Chloroplast : Prism
+Carbon Dioxide : Angle
+Water : Refracted Beam
+Sugars : Split Colors"
+gene expression,Genetics,marketing strategy,Business,"Promoter : Advertisement
+Transcription : Production
+Translation : Distribution
+Regulator : Pricing
+Expression : Promotion"
+stars,Astronomy,organisms,Ecology,"Nebula : Habitat
+Supernova : Migration
+Black Hole : Adaptation
+Gravity : Competition
+Light : Food source"
+stellar evolution,Astrophysics,rock cycle,Geology,"Nuclear fusion : Erosion
+Heat transfer : Weathering
+Stellar temperature : Heat
+Star formation : Compaction
+Stellar death : Melting"
+Solar System,Astronomy,Mountain System,Geology,"Sun : Peak
+Planets : Valleys
+Asteroids : Plateaus
+Comets : Ridges
+Nebulae : Canyons"
+star formation,Astronomy,rock formation,Geology,"Nebula : Magma
+Heat : Pressure
+Gravity : Time
+Clouds of Gas : Molten Rock
+Accretion Disk : Sedimentary Rock"
+wave-particle duality,Quantum Physics,cognitive dissonance,Psychology,"Wave : belief
+Particle : behavior
+Behavior-belief conflict : cognitive dissonance
+Wavelength : value system
+Frequency : attitude 
+Amplitude : intensity of emotion"
+DNA,Genetics,Stars,Astronomy,"Nucleic Acid : Hydrogen and Helium
+Base Pairs : Atomic Particles
+Gene : Nuclear Fusion
+Chromosome : Planetary System
+Replication : Supernova"
+solar system,Astronomy,world government,Political Science,"Sun : United Nations
+Planets : Member States
+Orbits : International Law
+Gravity : Diplomatic Relations
+Asteroids : Non-state Actors"
+stars,Astronomy,Atomic particles,Physics,"Planets : Protons
+Solar System : Nucleus
+Light : Electrons
+Gravity : Neutrons
+Galaxies : Quarks"
+food chain,Ecology,energy flow,Engineering,"Producer : Solar Energy
+Consumer : Electricity
+Herbivore : Generator
+Carnivore : Transformer
+Decomposer : Storage Unit"
+chemical reaction,Chemistry,market analysis,Business,"Reactants : Consumers
+Products : Goods
+Catalyst : Advertisement
+Activation Energy : Cost
+Equilibrium : Market Share"
+galaxies,Astronomy,mountain ranges,Geography,"Star systems : peaks
+Black holes : deep valleys 
+Gravitational force : erosional force
+Space dust : sediment
+Interstellar clouds : clouds"
+kinetic energy,Physics,wind energy,Climatology,"Motion : Wind
+Object : Turbine
+Speed : Velocity
+Work : Generation
+Force : Pressure"
+DNA,Genetics,Molecule,Chemistry,"Amino Acids : Atoms
+Genes : Chemical Bonds
+Chromosomes : Chemical Compounds
+Base Pairs : Molecules
+Nucleotides : Chemical Reactions"
+rock formation,Geology,personality formation,Psychology,"Minerals : Traits
+Stratification : Socialization
+Heat and Pressure : Environment
+Faulting : Experiences
+Weathering : Reflection"
+wave-particle duality,Quantum Mechanics,Supply and demand,Economics,"Wave : consumer demand
+Particle : quantity of goods
+Amplitude : changes in price
+Frequency : stability of prices
+Interference : market forces"
+graph theory,Mathematics,social networks,Sociology,"Vertices : individuals
+Edges : relationships
+Paths : communication
+Connected Graph : connected community
+Weighted Graph : ranking of relationships"
+rock formation,Geology,storm formation,Meteorology,"Tectonic plates : Jet Streams
+Volcanic activity : Heat
+Cooling and hardening : Moisture
+Weathering and erosion : Pressure
+Sediment : Wind"
+gene expression,Genetics,social interaction,Sociology,"DNA : behavior
+Transcription : communication
+Translation : dialogue
+Proteins : relationships
+Regulation : cooperation"
+cell cycle,Biology,human behavior,Psychology,"Chromosome replication : Thinking
+Cell division : Choosing
+Cell growth : Learning
+Cell specialization : Acting
+Cell death : Ending"
+star,Astronomy,mineral deposit,Geology,"Nuclear fusion : Magmatic Intrusion
+Heat : Heat
+Gravitational pull : Pressure
+Light : Erosion
+Constellation : Ore Vein"
+hydrocarbons,Organic Chemistry,stars,Astronomy,"Carbon : hydrogen/helium
+Molecule : star
+Atoms : planets
+Bonds : orbits
+Reactions : stellar evolution"
+rocket propulsion,Space Exploration,airplane propulsion,Aeronautics,"Solid fuel : jet fuel
+Rocket nozzle : jet engine
+Thrust : lift
+Exhaust : exhaust
+Heat : air pressure"
+nanomaterials,Nanotechnology,proteins,Biochemistry,"
+Atoms : Amino Acids
+Molecules : Polypeptide Chains
+Surface Area : Receptor Sites
+Synthesis : Synthesis
+Stability : Stability"
+DNA,Genetics,Light,Physics,"Molecule : Photon
+Base pairs : Wavelength
+Gene : Frequency
+Transcription : Reflection
+Replication : Refraction"
+energy,Physics,reactants,Chemistry,"Kinetic energy : Activation energy
+Potential energy : Reactant concentration
+Thermal energy : Temperature
+Mechanical energy : Pressure
+Radiant energy : Catalyst"
+emotional intelligence,Psychology,diplomatic relations,Political Science,"Self-awareness : Cultural Awareness
+Self-regulation : Negotiation Skills
+Motivation : Empathy
+Empathy : Conflict Resolution
+Social Skills : Diplomatic Strategies"
+insect metamorphosis,Entomology,rock formation,Geology,"Egg : Igneous Rock
+Larva : Sedimentary Rock
+Pupa : Metamorphic Rock
+Adult : Erosion
+Molting : Weathering"
+DNA,Genetics,coding,Software Engineering,"Base pairs : Lines of code
+Nucleotides : Variables
+Gene : Function
+Chromosome : File
+DNA strand : Program"
+volcanic eruption,Geology,thunderstorm,Meteorology,"Magma : Atmospheric moisture
+Lava flow : Warm air
+Air pressure : Wind
+Ash : Clouds
+Lightning : Volcanic lightning"
+rock formation,Geology,galaxy formation,Astronomy,"Minerals : Stars
+Layers : Constellations
+Folding : Collision
+Weathering : Gravitational Pull
+Erosion : Expansion"
+chemical reactions,Chemistry,social interactions,Sociology,"Reactants : People
+Products : Outcomes
+Catalyst : Facilitator
+Energy : Emotional state
+Equilibrium : Balance"
+Solar System,Astronomy,Earth's Interior,Geology,"Planets : Tectonic Plates
+Sun : Core
+Asteroid Belt : Mantle
+Kuiper Belt : Outer Core
+Oort Cloud : Crust"
+plate tectonics,Geology,stellar evolution,Astrophysics,"Convergent plate boundaries : Protostar
+Divergent plate boundaries : Nebula
+Transform plate boundaries : Young Star
+Continental plates : Main Sequence Star
+Oceanic plates : Red Giant Star"
+radioactive decay,Nuclear Physics,rock formation,Geology,"Nucleus : Mineral
+Radioactive particles : Sediment
+Half-life : Time
+Atomic decay : Erosion
+Radioactive energy : Heat"
+chemical bonds,Chemistry,stellar formation,Astrophysics,"Covalent bond : gravitational force
+Ionic bond : dust and gas
+Hydrogen bond : space dust
+Molecule : protostar
+Atomic nucleus : stellar core"
+rocket propulsion,Aerospace Engineering,car engine,Automotive Engineering,"Combustion chamber : cylinder
+Fuel : gasoline
+Igniter : spark plug
+Thrust : power
+Exhaust : exhaust pipe"
+food chain,Ecology,network,Computer Science,"Producer : server
+Consumer : client
+Predator : firewall
+Prey : data packets
+Energy : bandwidth"
+food web,Ecology,social network,Sociology,"Predator : Influencer
+Prey : Follower
+Herbivore : User
+Producer : Creator
+Decomposer : Moderator"
+Solar System,Astronomy,Global Governance,Political Science,"Sun : Central Government
+Planets : Countries
+Moons : States
+Asteroids : Minor States
+Comets : Organizations"
+aircraft design,Aerospace Engineering,human behavior,Psychology,"Aerodynamics : sociology
+Structural engineering : anthropology
+Avionics : cognitive science
+Propulsion : neuroscience
+Navigation : behavioral economics"
+desert,Geography,rainforest,Ecology,"Sand : Soil
+Heat : Humidity
+Low precipitation : High precipitation
+Cacti : Trees
+Dry air : High biodiversity"
+solar system,Astronomy,political system,Political Science,"Planets : Countries
+Sun : Government
+Gravity : Laws
+Solar System : Region
+Asteroids : Ideologies"
+clouds,Meteorology,stars,Astronomy,"Accumulation of water droplets : accumulation of gas and dust
+Formation of precipitation : formation of planets
+Reflection of sunlight : reflection of light from the sun
+Movement in the sky : movement in the sky
+Shape : shape"
+planetary orbits,Astronomy,international relations,Political Science,"Gravitational forces : economic and political power
+Planetary bodies : countries
+Eccentricity : complexity of relationships
+Axis : regional alliances
+Length of the orbit : duration of cooperation"
+stars,Astrophysics,elements,Chemistry,"Nuclear Fusion : Atomic Bonding
+Temperature : Heat
+Mass : Atomic Mass
+Gravity : Electron Orbitals
+Luminosity : Reactivity"
+chemical reaction,Chemistry,weather patterns,Meteorology,"Reactants : Atmospheric conditions
+Product : Weather
+Energy : Wind
+Catalyst : Solar radiation
+Equilibrium : Temperature"
+DNA,Molecular Biology,Fibonacci sequence,Mathematics,"Genes : Numbers
+Base Pairs : Addition
+Replication : Creation
+Mutation : Variation
+Adenine : 1
+Thymine : 0"
+star,Astronomy,mountain,Geology,"Nuclear Fusion : Volcanic Activity
+Gravity : Plate Tectonics
+Light : Erosion
+Mass : Height
+Orbit : Plateau"
+galaxy,Astronomy,mountain range,Geology,"Stars : Peaks 
+Nebulae : Valleys 
+Galactic arms : Ridges 
+Interstellar medium : Plateaus
+Dark matter : Depressions"
+calculus,Mathematics,chemical reactions,Chemistry,"Integration : Combination
+Derivatives : Rates of Change
+Limits : Equilibrium
+Differential Equations : Kinetics
+Functions : Equations"
+DNA sequence,Genetics,periodic table,Chemistry,"Base pairs : Elements
+Codons : Atomic number
+Gene : Group
+Chromosomes : Period
+Replication : Atomic mass"
+Light,Physics,Stars,Astronomy,"Wavelength : Luminosity
+Intensity : Temperature
+Reflection : Refraction
+Absorption : Radiation
+Emission : Nucleosynthesis"
+Bacterial Cell,Microbiology,Aircraft,Aeronautics,"Cell Wall : Fuselage
+Cytoplasm : Cockpit
+Nucleoid : Jet Engine
+Flagella : Propeller
+Ribosomes : Wings"
+rock formation,Geology,black hole,Physics,"Layers of sedimentary rock : Layers of space-time
+Igneous rock : Singularity 
+Weathering : Gravitational force
+Metamorphic rock : Event horizon 
+Magma : Accretion disk"
+celestial bodies,Astronomy,rocks,Geology,"Stars : Igneous Rocks
+Planets : Sedimentary Rocks
+Comets : Metamorphic Rocks
+Asteroids : Minerals
+Nebulae : Fossils"
+atomic structure,Chemistry,musical scales,Music,"Protons : Notes
+Neutrons : Harmonies
+Electrons : Melodies
+Atom : Musical Composition
+Nucleus : Octave"
+stars,Astronomy,plants,Ecology,"Nuclear fusion : Photosynthesis
+Gravitational pull : Pollination
+Luminosity : Respiration
+Light : Sunlight
+Mass : Nutrients"
+cell structure,Biology,planetary structure,Astronomy,"Nucleus : Core
+Cell Membrane : Atmosphere
+Organelles : Moons
+Ribosomes : Asteroids
+Mitochondria : Magnetic Field"
+electromagnetism,Physics,weather systems,Meteorology,"Electric field : Pressure gradient
+Magnetic field : Coriolis force
+Electric current : Wind
+Voltage : Temperature
+Inductance : Humidity"
+solar system,Astronomy,food web,Ecology,"Sun : Producers
+Planets : Primary consumers
+Asteroids : Secondary consumers
+Meteors : Tertiary consumers
+Moons : Decomposers"
+energy,Physics,currency,Economics,"Potential energy : savings
+Kinetic energy : circulating funds
+Momentum : exchange rate
+Conservation of energy : economic stability
+Energy conversion : currency conversion"
+cell division,Biology,product development,Business,"Chromosomes : Ideas
+Mitosis : Research
+Cytokinesis : Design
+DNA : Prototype
+Cell Membranes : Quality Control"
+lenses,Optics,telescopes,Astronomy,"Focal length : Magnification
+Aperture : Objective lens
+Lens shape : Focal length
+Index of refraction : Light-gathering power
+Optical coatings : Alignment accuracy"
+planets,Astronomy,elements,Chemistry,"Orbit : Atomic Number
+Mass : Atomic Mass
+Size : State of Matter
+Distance from Sun : Bonding Type
+Surface : Chemical Properties"
+philosophy of existence,Metaphysics,universe expansion,Astrophysics,"Concept of being : Hubble's Law
+Ontology : Big Bang Theory
+Existence : Dark Energy
+Identity : Cosmic Microwave Background
+Matter : Redshift"
+memory,Neuroscience,oral tradition,Comparative Literature,"Encoding : Storytelling
+Storage : Preservation
+Retrieval : Re-telling
+Amnesia : Loss of Tradition
+Forgetting : Obscurity"
+chemical reaction,Chemistry,food web,Ecology,"Reactants : Primary Producers
+Products : Consumers
+Catalyst : Predator
+Enzyme : Prey
+Activation Energy : Competition"
+solar system,Astronomy,geological strata,Geology,"Sun : Core
+Planets : Layers
+Moons : Satellites
+Asteroids : Particles
+Comets : Dust"
+landforms,Geography,celestial bodies,Astronomy,"Mountains : Asteroids
+Plateaus : Planets
+Valleys : Moons
+Deserts : Comets
+Islands : Stars"
+solar system,Astronomy,tectonic plates,Geology,"Planets : Continents
+Sun : Mantle
+Gravity : Plate Boundaries
+Orbits : Seafloor Spreading
+Asteroids : Volcanic Activity"
+star systems,Astronomy,rock formation,Geology,"Celestial bodies : Earth's crust
+Planetary orbits : Fault lines
+Gravity : Earthquakes
+Nebula : Volcanic eruptions
+Galaxy : Mountains"
+planets in the solar system,Astronomy,countries in Europe,Geography,"Sun : Europe
+Mercury : France
+Venus : Germany
+Earth : United Kingdom
+Mars : Italy
+Jupiter : Spain"
+celestial bodies,Astronomy,minerals,Geology,"Planets : rocks
+Stars : ores
+Asteroids : gemstones
+Comets : crystals
+Meteors : sedimentary deposits"
+social network,Sociology,river network,Geography,"People : Sources
+Mutual relationships : Tributaries
+Friendships : Main Rivers
+Messages : Water
+Personal conversations : Streams"
+gene expression,Genetics,social behavior,Sociology,"Genes : Cultural Norms
+DNA : Social Customs
+Transcription : Socialization
+Translation : Interaction
+Protein : Attitudes"
+acid-base reactions,Chemistry,rock weathering,Geology,"Acid : Acid Rain
+Base : Carbon Dioxide
+Reaction : Chemical Reaction
+Products : Weathered Rocks
+Reactants : Minerals"
+rocket,Aerospace Engineering,wave-particle duality,Quantum Mechanics,"Fuel : energy
+Combustion : wave-particle duality
+Thrust : wave function
+Spacecraft : particle
+Trajectory : probability"
+food chain,Ecology,star system,Astronomy,"Producers : Stars 
+Consumers : Planets 
+Decomposers : Asteroids 
+Energy : Radiation 
+Food : Resources"
+emotion,Psychology,melody,Music,"Happiness : Upbeat
+Sadness : Slow
+Anger : Minor Key
+Fear : High Pitched
+Surprise : Unexpected Rhythms"
+star formation,Astronomy,chemical reactions,Chemistry,"Gravity : Attraction
+Molecular clouds : Reagents
+Nebula : Solution
+Nuclear fusion : Combination
+Hydrogen atoms : Molecules"
+genetics,Biology,marketing,Business,"Gene : Target Audience
+Chromosomes : Advertising Platforms
+DNA : Brand Identity
+Heredity : Brand Loyalty
+Mutation : Response to Advertisement"
+planets,Astrophysics,rocks,Geology,"Moons : Sediments
+Solar System : Plate Tectonics
+Gravity : Erosion
+Atmosphere : Weathering
+Core : Igneous Rocks"
+atomic structure,Chemistry,mineral formation,Geology,"Protons : Elements
+Electrons : Compounds
+Nucleus : Crystals
+Atoms : Minerals
+Molecules : Rocks"
+weather forecast,Meteorology,star chart,Astronomy,"Forecast : Map
+Clouds : Stars
+Temperature : Magnitude
+Wind : Direction
+Rain : Constellations"
+sedimentary rock,Geology,stars,Astronomy,"Particles : Hydrogen and Helium
+Weathering : Nuclear Fusion
+Stratification : Radiation
+Pressure : Gravity
+Erosion : Expansion"
+planetary orbits,Astronomy,rock formation,Geology,"Gravitational force : erosion
+Planetary bodies : sediment
+Elliptical orbits : deposition
+Orbital period : uplift
+Distance from the Sun : pressure"
+DNA,Genetics,Algorithm,Computer Science,"Gene : Code
+Genome : Program
+Chromosome : Process
+Replication : Iteration
+Mutation : Modification"
+DNA,Biology,Binary Code,Computer Science,"Base Pairs : Bits
+Nucleotides : Bytes
+Gene : Program
+Chromosome : Software
+Replication : Copying"
+food chain,Ecology,social hierarchy,Sociology,"Producers : Leaders
+Consumers : Followers
+Predators : Dominant Individuals
+Prey : Subordinate Individuals
+Biomass : Social Structure"
+gene mutation,Genetics,star formation,Astronomy,"DNA : interstellar gas clouds
+Mutation : gravitational collapse
+Genotype : protostar
+Phenotype : main-sequence star
+Chromosomes : stellar nebula"
+DNA,Genetics,Data structure,Data Science,"Gene : Attribute
+Mutation : Change
+Chromosome : Database
+Base pairs : Records
+Replication : Duplication"
+star formation,Astronomy,gene mutation,Genetics,"Nebula : DNA
+Clouds of gas/dust : Chromosomes
+Gravitational collapse : Replication
+Nuclear fusion : Mutations
+Protostar : Alleles"
+neuron,Neurobiology,engine,Automotive Engineering,"Dendrite : Intake Valve
+Axon : Spark Plug
+Myelin Sheath : Ignition System
+Synapse : Fuel Injection System
+Cell Body : Piston"
+human behavior,Psychology,social interaction,Sociology,"Thinking : Communication
+Feelings : Relationships
+Perception : Social Norms
+Actions : Social Structures
+Reactions : Social Institutions"
+soil layers,Geology,cloud formation,Meteorology,"Surface : Troposphere
+Subsoil : Stratosphere
+Bedrock : Mesosphere
+Minerals : Water Vapor
+Root systems : Air Pressure"
+solar system,Astronomy,storm system,Meteorology,"Sun : Low Pressure Area
+Planets : Winds
+Asteroid Belt : Rain
+Kuiper Belt : Hail
+Oort Cloud : Tornadoes"
+food chain,Ecology,internet,Computer Science,"Producer : Provider
+Consumer : User
+Predator : Hacker
+Prey : Network
+Habitat : Server"
+DNA,Genetics,encryption,Cryptography,"Nucleotides : bits
+Gene : algorithm
+Chromosome : key
+Replication : decoding
+Mutation : hacking"
+chemical reactions,Chemistry,learning,Psychology,"Reactants : Stimuli
+Products : Responses
+Catalyst : Reinforcement
+Activation Energy : Motivation
+Exothermic Reaction : Positive Reinforcement"
+culture,Sociology,climate,Geography,"Language : Weather
+Beliefs : Temperature
+Traditions : Precipitation
+Values : Humidity
+Customs : Wind"
+planets,Astronomy,sedimentary rocks,Geology,"Rotation : deposition
+Orbit : erosion
+Gravity : compaction
+Atmosphere : lithification
+Surface : outcrop"
+planetary orbits,Astronomy,food web,Ecology,"Gravitational force : predator-prey relationships
+Planets : species
+Sun : apex predator
+Revolution : trophic level
+Distance : habitat"
+animal behavior,Zoology,human behavior,Sociology,"Instinct : Social Norms
+Habitat : Culture
+Migration : Migration
+Communication : Communication
+Reproduction : Reproduction"
+rock formation,Geology,star formation,Astronomy,"Minerals : Hydrogen and Helium
+Magma : Molecular Cloud
+Heat and Pressure : Gravity
+Igneous Rocks : Protostar
+Metamorphic Rocks : Main Sequence Star"
+force of gravity,Physics,black hole,Astronomy,"Mass : Mass of the black hole
+Attraction : Event Horizon
+Distance : Gravitational Pull
+Acceleration : Singularity
+Field : Accretion Disk"
+energy,Physics,chemical reactions,Chemistry,"Kinetic energy : Activation energy
+Potential energy : Chemical bond energy
+Thermal energy : Heat of reaction
+Electrical energy : Electron transfer
+Mass-energy : Mass conservation"
+Social Interaction,Sociology,Food Chain,Ecology,"Communication : Predation
+Influence : Competition
+Cooperation : Symbiosis
+Social Norms : Habitat
+Cultural Values : Sunlight"
+protein structure,Biochemistry,rock formation,Geology,"Amino acids : Minerals
+Peptide bonds : Pressure
+Side chains : Temperature
+Secondary structure : Folding
+Tertiary structure : Fracturing"
+thermodynamics,Physics,food webs,Ecology,"Energy : energy transfer
+Heat : nutrients
+States of matter : species
+Temperature : environment
+Equilibrium : balance"
+rock formation,Geology,weather system,Meteorology,"Mineral composition : air temperature
+Igneous rocks : low pressure systems
+Metamorphic rocks : high pressure systems
+Sedimentary rocks : wind patterns
+Erosion : precipitation"
+fossil record,Paleontology,rock layers,Geology,"Fossils : Sediments
+Relative age : Stratification
+Geologic time : Geologic eras
+Evolutionary history : Geological history
+Living organisms : Earth materials"
+solar system,Astronomy,food chain,Ecology,"Sun : Primary Producer
+Planets : Consumers
+Moons : Secondary Consumers
+Asteroids : Tertiary Consumers
+Comets : Decomposers"
+clouds,Meteorology,biodiversity,Ecology,"Cirrus clouds : migratory birds
+Cumulus clouds : bees
+Nimbus clouds : bats
+Stratocumulus clouds : dolphins
+Stratus clouds : fish"
+rock formation,Geology,painting,Art History,"Layers : brush strokes
+Weathering : blending
+Erosion : fading
+Color : hue
+Texture : depth"
+nuclear physics,Physics,stellar evolution,Astronomy,"Nuclear fission : Supernova
+Isotopes : Stars
+Radioactivity : Radiation
+Elementary particles : Elements
+Nuclear fusion : Fusion"
+exoplanet,Astrobiology,mountain,Geology,"Orbital period : Elevation
+Rotational period : Slope
+Atmosphere : Weathering
+Moons : Plateaus
+Surface temperature : Temperature"
+rock cycle,Geology,food web,Ecology,"Igneous rocks : Primary producers 
+Sedimentary rocks : Herbivores
+Metamorphic rocks : Carnivores
+Weathering : Decomposers
+Erosion : Consumers"
+earthquakes,Geology,thunderstorms,Meteorology,"Seismic waves : Pressure changes
+Seismic activity : Wind shifts
+Fault lines : Storm fronts
+Tectonic plates : Clouds
+Earthquake epicenter : Thunderstorm center"
+thermodynamics,Physics,stellar evolution,Astrophysics,"Heat : Energy
+Temperature : Luminosity
+Work : Nuclear Fusion
+Entropy : Mass Loss
+Equilibrium : Equilibrium Phase"
+DNA,Biochemistry,encryption,Cryptography,"Gene : key
+Transcription : coding
+Translation : encryption
+Replication : duplication
+Mutation : variation"
+neuron,Neuroscience,robot,Robotics,"Cell body : Body
+Axon : Wires
+Dendrites : Sensors
+Synapse : Circuitry
+Action potential : Coding"
+stellar evolution,Astrophysics,gene mutation,Genetics,"Nuclear fusion : DNA replication
+Nebula : Chromosomes
+Star formation : Gene Expression
+Star death : Gene Mutation
+Supernova : Gene Mutation/Deletion"
+planetary system,Astronomy,mountain range,Geography,"Sun : Central Peak
+Planets : Peaks
+Orbit : Valley
+Gravity : Slope
+Asteroids : Stones"
+DNA,Genetics,encryption,Cybersecurity,"Nucleotides : Bits
+Base pairs : Bytes
+Replication : Decryption
+Mutations : Attacks
+Transcription : Encryption"
+wave-particle duality,Quantum Mechanics,conscious and unconscious,Psychology,"Superposition : duality of the mind
+Observer effect : awareness
+Interference : intuition
+Uncertainty : ambiguity
+Quantum jump : sudden insight"
+DNA replication,Genetics,data backup,Computer Science,"Base pair : file
+Replication : duplication
+Mutation : modification
+Template strand : original data
+Complementary strand : backup copy"
+DNA,Molecular Biology,Computer Programming,Computer Science,"Nucleotide : Operator
+Base pair : Variable
+Gene : Function
+Codon : Statement
+Promoter : Loop"
+mountain range,Geography,weather patterns,Meteorology,"Elevation : air pressure
+Slope : wind direction
+Geology : temperature
+Soil : moisture
+Vegetation : cloud cover"
+planetary orbit,Astronomy,rock formation,Geology,"Gravitational force : tectonic force
+Planetary body : earth's crust
+Elliptical orbit : mountain range
+Rotation : erosion
+Distance from the Sun : mineral composition"
+planets,Astronomy,minerals,Geology,"Orbit : Formation
+Gravity : Pressure
+Atmosphere : Composition
+Surface : Location
+Size : Value"
+star,Astronomy,rock,Geology,"Light : Heat
+Nebula : Magma
+Gravity : Pressure
+Constellation : Formation
+Planets : Minerals"
+elements,Chemistry,stars,Astronomy,"Atoms : Protons
+Molecules : Neutrons
+Subatomic particles : Electrons
+Compounds : Hydrogen and helium
+Periodic table : Stellar evolution"
+Solar System,Astronomy,Periodic Table,Chemistry,"Sun : Hydrogen
+Planets : Elements
+Moons : Isotopes
+Asteroids : Compounds
+Meteors : Molecules"
+Cognitive Development,Psychology,Curriculum Design,Education,"Sensory Development : Learning Objectives
+Language Acquisition : Lesson Plans
+Problem Solving : Assessments
+Social Interaction : Instructional Strategies
+Critical Thinking : Curriculum Evaluation"
+cell metabolism,Biochemistry,rock formation,Geology,"enzymes : heat and pressure
+glucose : sedimentary material
+ATP : volcanic activity
+proteins : erosion
+lipids : tectonic forces"
+DNA replication,Genetics,satellite construction,Aerospace Engineering,"nucleotides : components
+base pairs : technology
+double helix : structure
+replication : assembly
+enzyme : robotic arm"
+DNA,Genetics,Fibonacci sequence,Mathematics,"Nucleotides : Numbers
+Base pairs : Addition
+Gene : Sequence
+Chromosomes : Pattern
+Genome : Series"
+star,Astronomy,volcano,Geology,"Core : magma chamber
+Surface temperature : lava
+Luminosity : eruption
+Mass : fissure
+Gravity : seismic activity"
+electromagnetism,Physics,stellar evolution,Astronomy,"Magnetic field : gravity
+Electrical charge : mass
+Electromagnetic radiation : nuclear fusion
+Electromagnetic induction : stellar winds
+Magnetism : stellar death"
+atomic structure,Chemistry,planetary system,Astronomy,"Atom : Planet
+Proton : Core
+Electron : Atmosphere
+Nucleus : Solar System
+Orbit : Orbit"
+protein synthesis,Biochemistry,product development,Business,"Amino acids : raw materials
+mRNA : design specs
+tRNA : production methods
+Ribosomes : factories
+Proteins : finished products"
+exoplanets,Astrobiology,mountain range,Geology,"Star : Earth
+Orbit : Plateau
+Atmosphere : Climate
+Distance from star : Altitude
+Composition : Rock Type"
+erosion,Geology,succession,Ecology,"Wind : Physical disturbances
+Rain : Fire
+Plants : Colonizing species
+Animals : Successional species
+Soil : Soil accumulation"
+animal behavior,Zoology,consumer behavior,Economics,"Mating : Shopping
+Feeding : Eating
+Hibernation : Saving
+Migration : Traveling
+Aggression : Bargaining"
+DNA,Genetics,crop breeding,Agriculture,"Chromosomes : Genes
+Mutation : Variation
+Gene pool : Breeding Pool
+Replication : Selection
+Nucleotide : Trait"
+DNA,Genetics,proteins,Biochemistry,"Nucleotides : Amino Acids
+Chromosomes : Polypeptides
+Replication : Synthesis
+Transcription : Activation
+Translation : Folding"
+spacecraft,Aerospace Engineering,quantum mechanics,Physics,"Propulsion system : Heisenberg Uncertainty Principle
+Cockpit : Wave-Particle Duality
+Avionics : Schrodinger Equation
+Fuel tanks : Planck Constant
+Spacecraft : Quantum States"
+atomic structure,Chemistry,earth's layers,Geology,"Atom : Planet
+Nucleus : Core
+Electron Orbitals : Mantle
+Protons : Crust
+Neutrons : Oceans"
+plant reproduction,Biology,geometry,Mathematics,"Pollination : Formulas
+Flower : Shapes
+Stamen : Angles
+Ovary : Lines
+Fruits : Points"
+calculus,Mathematics,motion of an object,Physics,"Derivative : Acceleration
+Integral : Displacement
+Limit : Velocity
+Function : Path
+Slope : Force"
+brain,Neuroscience,government,Political Science,"Neurons : Citizens
+Synapses : Laws
+Brainstem : Executive Branch
+Cerebrum : Legislative Branch
+Cerebellum : Judicial Branch"
+mountain formation,Geology,planet formation,Astronomy,"Plate tectonics : Gravity 
+Volcanic activity : Radiation
+Collision of plates : Accretion
+Weathering and erosion : Atmospheric escape
+Uplift : Collision of large asteroids"
+DNA,Biology,Chromosomes,Genetics,"Nucleotides : Genes
+Double helix : Chromatid
+Sugar-phosphate backbone : Centromere
+Adenine : Cytosine
+Guanine : Thymine"
+stellar evolution,Astrophysics,chemical reaction,Chemistry,"Nuclear fusion : Combustion
+Hydrogen : Oxygen
+Giant Star : Explosion
+Supernova : Exothermic reaction
+White Dwarf : Endothermic reaction"
+rock formation,Geology,storm systems,Meteorology,"Magma : Low Pressure Area
+Fault Line : Frontal System
+Weathering : Precipitation
+Stratification : Wind Patterns
+Erosion : Temperature Changes"
+solar system,Astronomy,government system,Political Science,"Sun : Executive Branch
+Planets : Legislative Branch
+Moons : Judicial Branch
+Asteroids : Local Governments
+Comets : International Relations"
+cognitive processes,Psychology,voting behavior,Political Science,"Memory : Awareness
+Attention : Education
+Thinking : Opinion
+Perception : Preference
+Decision-making : Choice"
+Electric field,Physics,Weather system,Meteorology,"Voltage : Atmospheric Pressure
+Current : Wind
+Insulators : Air Masses
+Conductors : Fronts
+Electric Field : Global Circulation"
+DNA,Genetics,data storage,Information Technology,"Chromosomes : Data Centers
+Genes : Files
+Nucleotide : Bits
+Replication : Backup
+Mutation : Error Correction"
+star system,Astronomy,mountain range,Earth Science,"Planets : Peaks
+Asteroid Belt : Valleys
+Solar Wind : Wind
+Galaxy : Plateau
+Nebula : Rocks"
+solar system,Astronomy,United Nations,Political Science,"Sun : Secretary-General
+Planets : Member States
+Gravitational force : International Law
+Orbit : United Nations Charter
+Asteroid belt : Security Council"

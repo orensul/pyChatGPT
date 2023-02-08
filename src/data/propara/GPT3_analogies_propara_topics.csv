@@ -1,0 +1,298 @@
+source_id,source_subject,source_domain,target_domain,target_subject,target_field,mappings
+7,What causs a volcano to erupt?,Natural Sciences,Engineering, What causes a geothermal power plant to generate electricity?,Mechanical Engineering,"Volcano : Geothermal Power Plant
+Magma : Hot Water
+Pressure : Pressure
+Heat : Heat
+Lava : Steam"
+7,What causs a volcano to erupt?,Natural Sciences,Natural Sciences,What causes an earthquake?,Geology,"Volcano : Fault Line
+Magma : Tectonic Plates
+Lava : Movement of Plates
+Ash : Seismic Waves
+Gases : Tremors"
+7,What causs a volcano to erupt?,Natural Sciences,Social Sciences, What causes social unrest?,Sociology,"Volcano : Society
+Magma : Social Issues
+Plate Tectonics : Structural Inequality
+Pressure : Discontent
+Heat : Unmet Needs"
+11,What happens during erosion by the ocean?,Natural Sciences,Engineering, What happens during erosion by the wind?,Civil Engineering,"Ocean : Wind
+Waves : Gusts
+Sand : Dust
+Sediments : Particles
+Currents : Airflow"
+11,What happens during erosion by the ocean?,Natural Sciences,Natural Sciences,What happens during weathering by the atmosphere?,Geology,"Ocean : Atmosphere
+Erosion : Weathering
+Waves : Wind
+Tides : Temperature Changes
+Sediments : Rain and Snow"
+11,What happens during erosion by the ocean?,Natural Sciences,Social Sciences, What happens during immigration?,Political Science,"Ocean : Country
+Erosion : Immigration
+Waves : People
+Currents : Laws
+Sediment : Cultural Differences"
+13,What happens during the water cycle?,Natural Sciences,Engineering, What happens during the refrigeration cycle?,Mechanical Engineering,"Water : Refrigerant
+Evaporation : Evaporation
+Condensation : Condensation
+Precipitation : Condensation
+Collection : Collection"
+13,What happens during the water cycle?,Natural Sciences,Natural Sciences, What happens during the carbon cycle?,Biology,"Water : Carbon
+Evaporation : Respiration
+Condensation : Decomposition
+Precipitation : Photosynthesis
+Runoff : Combustion"
+13,What happens during the water cycle?,Natural Sciences,Social Sciences, What happens during the economic cycle?,Economics,"Water cycle : Economic cycle
+Evaporation : Investment
+Condensation : Production
+Precipitation : Consumption
+Runoff : Savings"
+14,What happens during the water cycle?,Natural Sciences,Engineering,What happens during the refrigeration cycle?,Mechanical Engineering,"Water Cycle : Refrigeration Cycle
+Evaporation : Evaporation
+Condensation : Condensation
+Precipitation : Compression
+Collection : Expansion"
+14,What happens during the water cycle?,Natural Sciences,Natural Sciences, What happens during the carbon cycle?,Biology,"Water : Carbon
+Evaporation : Respiration
+Condensation : Decomposition
+Precipitation : Photosynthesis
+Runoff : Uptake"
+14,What happens during the water cycle?,Natural Sciences,Social Sciences, What happens during the economic cycle?,Economics,"
+Evaporation : Production 
+Condensation : Consumption 
+Precipitation : Investment 
+Groundwater : Savings 
+Surface Water : Government Spending"
+15,What happens during the water cycle?,Natural Sciences,Engineering,What happens during the cycle of an air conditioning system?,Mechanical Engineering,"Water cycle : Cycle of an air conditioning system 
+Evaporation : Evaporator 
+Condensation : Condenser 
+Precipitation : Collection of condensed liquid 
+Transpiration : Compressor"
+15,What happens during the water cycle?,Natural Sciences,Natural Sciences, What happens during the carbon cycle?,Biology,"Water : Carbon
+Evaporation : Respiration
+Condensation : Photosynthesis
+Precipitation : Decomposition
+Groundwater : Fossil Fuels"
+15,What happens during the water cycle?,Natural Sciences,Social Sciences, What happens during the economic cycle?,Economics,"Water : Money
+Evaporation : Investment
+Condensation : Savings
+Precipitation : Consumption
+Groundwater : Taxation"
+20,How is sediment transported across the Earth?,Natural Sciences,Engineering, How does a conveyor belt system work?,Mechanical Engineering,"Sediment : Materials
+Earth : Conveyor Belt
+Wind : Motor
+Gravity : Belt
+Rivers : Rollers"
+20,How is sediment transported across the Earth?,Natural Sciences,Natural Sciences, How is energy transported across the Earth?,Physics ,"Sediment : Energy 
+Rivers : Waves 
+Ocean : Particles 
+Wind : Radiation 
+Gravity : Gravity"
+20,How is sediment transported across the Earth?,Natural Sciences,Social Sciences, How is information transported across cultures?,Anthropology,"Sediment : Information
+Earth : Culture
+Wind : Communication
+Currents : Interactions
+Waves : Exchange"
+22,How are valleys formed?,Natural Sciences,Engineering, How are tunnels formed?,Civil Engineering,"Valleys : Tunnels
+Erosion : Excavation
+River : Construction Equipment
+Mountain : Earth and Rock"
+22,How are valleys formed?,Natural Sciences,Natural Sciences, How are mountains formed?,Geology,"Valley : Mountain
+Erosion : Tectonic Activity
+Rivers : Plates
+Deposition : Magma"
+22,How are valleys formed?,Natural Sciences,Social Sciences, How is the landscape shaped by human activity?,Geography,"Valleys : Landscape
+Erosion : Human Activity
+Rivers : Agricultural Practices
+Glaciers : Urban Development
+Tectonic Plates : Industrialization"
+31,How do caverns form?,Natural Sciences,Engineering, How does the hydraulic erosion work?,Civil Engineering,"Caverns : Rivers
+Water : Water Flow
+Rocks : Rocks
+Ground : Soil
+Gravity : Gravity"
+31,How do caverns form?,Natural Sciences,Natural Sciences, How do mountains form?,Geology,"Caverns : Mountains
+Dissolution : Uplift
+Carbonic Acid : Tectonic Forces
+Limestone : Rocks
+Stalactites : Valleys"
+31,How do caverns form?,Natural Sciences,Social Sciences, How does language evolve?,Linguistics,"Caverns : Languages
+Weathering : Usage
+Erosion : Change
+Rock : Sounds
+Formations : Grammar"
+34,How does igneous rock form?,Natural Sciences,Engineering, How does concrete form?,Civil Engineering,"Igneous Rock : Concrete
+Molten Rock : Cement
+Crystals : Gravel
+Magma : Water
+Plate Tectonics : Mixing"
+34,How does igneous rock form?,Natural Sciences,Natural Sciences, How does sedimentary rock form?,Geology,"Igneous Rock : Sedimentary Rock
+Lava : Sediments
+Magma : Decomposed Organic Matter
+Crystallization : Compaction and Cementation"
+34,How does igneous rock form?,Natural Sciences,Social Sciences, How does the economic system work?,Economics,"Igneous Rock : Market
+Lava : Money
+Magma : Goods and Services
+Crystallization : Production
+Volcanic Eruption : Exchange"
+35,How does igneous rock form?,Natural Sciences,Engineering, How does concrete form?,Civil Engineering,"Molten rock : cement
+Magma : aggregate
+Igneous rock : concrete
+Crystallization : hardening
+Volcanic eruptions : casting"
+35,How does igneous rock form?,Natural Sciences,Natural Sciences, How does sedimentary rock form?,Geology,"Igneous Rock : Sedimentary Rock
+Magma : Sediment
+Lava : Compaction
+Crystals : Cementation
+Minerals : Lithification"
+35,How does igneous rock form?,Natural Sciences,Social Sciences,How does language evolve?,Linguistics,"Igneous rock : Language
+Magma : Speech
+Crystallization : Syntax
+Cooling : Morphology
+Stratification : Semantics"
+source_id,source_subject,source_domain,target_domain,target_subject,target_field,mappings
+36,How does igneous rock form?,Natural Sciences,Engineering, How does concrete form?,Civil Engineering,"Igneous Rock : Concrete
+Magma : Aggregates
+Crystals : Cement
+Volcanic Ash : Water
+Crystallization : Vibration"
+36,How does igneous rock form?,Natural Sciences,Natural Sciences, How does sedimentary rock form? ,Geology,"Igneous Rock : Sedimentary Rock
+Magma : Sediment
+Volcanic eruption : Deposition
+Cooling and hardening : Compaction and Cementation"
+36,How does igneous rock form?,Natural Sciences,Social Sciences,How does a political ideology form?,Political Science,"Igneous Rock : Political Ideology
+Magma : Ideas
+Crystals : Supporters
+Volcanic Eruptions : Events
+Weathering : Discourse"
+41,What causes an earthquake to occur?,Natural Sciences,Engineering, What causes a bridge to collapse?,Civil Engineering,"Earthquake : Structural Failure
+Tectonic Plates : Design Flaws
+Seismic Waves : Wind Loads
+Faults : Corrosion
+Earth's Crust : Poor Maintenance"
+41,What causes an earthquake to occur?,Natural Sciences,Natural Sciences,What causes a volcano to erupt?,Geology,"Earthquake : Volcano
+Tectonic plates : Magma chamber
+Fault lines : Magma pathways
+Pressure : Pressure"
+41,What causes an earthquake to occur?,Natural Sciences,Social Sciences, What causes a conflict to occur?,Political Science,"Earthquake : Conflict
+Tectonic Plate Movement : Political or Economic Interests
+Fault Line : Borders
+Pressure : Ideological Differences
+Stress : Power Dynamics"
+43,How does rain form?,Natural Sciences,Engineering, How does a water filtration system work?,Civil Engineering,"Water Vapor : Water
+Condensation : Filtration
+Clouds : Sedimentation Tank
+Precipitation : Filters
+Rain : Clean Water"
+43,How does rain form?,Natural Sciences,Natural Sciences, How does condensation form?,Physics,"Rain : Condensation
+Evaporation : Evaporation
+Air pressure : Air Pressure
+Warm air : Warm Air
+Cold air : Cold Air"
+43,How does rain form?,Natural Sciences,Social Sciences, How does public opinion form?,Political Science,"Clouds : Media
+Condensation : Discussion
+Raindrops : Public Opinion
+Water Cycle : Opinion Cycle
+Wind : Influencers"
+45,How does rain form?,Natural Sciences,Engineering,How does a sprinkler system work?,Mechanical Engineering,"Warm air : Water pressure
+Cool air : Sprinkler heads
+Condensation : Water supply
+Rain : Sprinkler water
+Clouds : Pipes"
+45,How does rain form?,Natural Sciences,Natural Sciences, How does condensation form?,Physics,"Rain : Condensation
+Evaporation : Evaporation
+Clouds : Clouds
+Atmosphere : Air
+Moisture : Moisture"
+45,How does rain form?,Natural Sciences,Social Sciences,How does public opinion form?,Political Science,"Clouds : Media
+Evaporation : Public Discourse
+Condensation : Group Opinion
+Precipitation : Individual Opinion
+Winds : Influencers"
+48,What happens during a vocanic eruption?,Natural Sciences,Engineering, What happens during a nuclear fission reaction?,Nuclear Engineering,"Volcanic eruption : Nuclear fission reaction
+Molten rock : Uranium atom
+Magma : Neutrons
+Gas : Fission Products
+Ash : Energy"
+48,What happens during a vocanic eruption?,Natural Sciences,Natural Sciences, What happens during an earthquake?,Geology,"Volcanic Eruption : Earthquake
+Magma : Seismic Waves
+Lava : Fault Lines
+Ash : Seismic Activity
+Smoke : Aftershocks"
+48,What happens during a vocanic eruption?,Natural Sciences,Social Sciences, What happens during an economic recession?,Economics,"Volcanic Eruption : Economic Recession
+Lava : Recessionary Gap
+Ash : Unemployment
+Tremors : Low Investment
+Magma : Low Consumption"
+50,How do minerals form?,Natural Sciences,Engineering, How does a refinery work?,Chemical Engineering,"Minerals : Petroleum
+Crystals : Crude Oil
+Pressure : Heat
+Temperature : Fractional Distillation
+Chemicals : Refined Products"
+50,How do minerals form?,Natural Sciences,Natural Sciences, How do crystals form?,Chemistry,"Minerals : Crystals
+Atoms : Molecules
+Ions : Atoms
+Lattice : Lattice Structure
+Pressure : Temperature"
+50,How do minerals form?,Natural Sciences,Social Sciences, How does language form?,Linguistics,"Minerals : Words
+Crystals : Sentences
+Atoms : Phonemes
+Pressure : Grammar
+Heat : Cultural Context"
+51,How do minerals form?,Natural Sciences,Engineering, How does a metal casting process work?,Metallurgical Engineering,"Minerals : Metals
+Crystallization : Melting
+Pressure : Casting moulds
+Temperature : Casting temperatures
+Volatiles : Gases"
+51,How do minerals form?,Natural Sciences,Natural Sciences, How do rocks form?,Geology,"Minerals : Rocks
+Crystal Structure : Chemistry
+Ionization : Pressure
+Magma : Heat
+Melting : Melting"
+51,How do minerals form?,Natural Sciences,Social Sciences, How does culture form?,Anthropology,"Minerals : Cultural Practices
+Crystallization : Social Interactions
+Pressure : Power Relations
+Temperature : Social Context
+Layers : Cultural Norms"
+52,How do earthquakes occur?,Natural Sciences,Engineering, How does a dam work?,Civil Engineering,"Earthquakes : Water Pressure
+Tectonic Plates : Dam Walls
+Fault Lines : Reservoirs
+Seismic Waves : Water Flow
+Earth's Crust : Dam Structure"
+52,How do earthquakes occur?,Natural Sciences,Natural Sciences, How do volcanoes erupt?,Geology,"Earthquake : Volcano
+Seismic waves : Magma
+Fault lines : Magma chamber
+Seismic activity : Pressure build up
+Tectonic plates : Magma escaping"
+52,How do earthquakes occur?,Natural Sciences,Social Sciences, How do revolutions occur?,Political Science,"Earthquakes : Revolutions
+Fault Lines : Political Pressure
+Seismic waves : Protests
+Tectonic Plates : Ideological Differences
+Stress : Unrest"
+56,How does snow form?,Natural Sciences,Engineering, How does a cooling system work?,Mechanical Engineering,"Snow : Condensation
+Temperature : Temperature
+Cold air : Coolant
+Water vapor : Freon
+Ice crystals : Heat Exchanger"
+56,How does snow form?,Natural Sciences,Natural Sciences, How does precipitation form?,Meteorology,"Snow : Precipitation
+Water vapor : Water Vapor
+Condensation : Condensation
+Clouds : Clouds
+Freezing : Freezing"
+56,How does snow form?,Natural Sciences,Social Sciences, How does a market form?,Economics,"Snow : Goods and Services
+Water Vapor : Supply and Demand
+Condensation : Competition
+Ice Crystals : Consumers
+Atmospheric Pressure : Price"
+57,How does snow form?,Natural Sciences,Engineering, How does a refrigerator work?,Mechanical Engineering,"Snow : Ice
+Water Vapor : Refrigerant
+Temperature : Thermostat
+Air Pressure : Compressor
+Condensation : Evaporator"
+57,How does snow form?,Natural Sciences,Natural Sciences,How does rain form?,Meteorology,"Snow : Rain
+Clouds : Clouds
+Condensation : Condensation
+Temperature : Temperature
+Precipitation : Precipitation"
+57,How does snow form?,Natural Sciences,Social Sciences, How does public opinion form?,Political Science,"Snow : Public Opinion
+Ice crystals : Individual Opinions
+Winds : Media
+Temperature : Social Factors
+Water vapor : Information"

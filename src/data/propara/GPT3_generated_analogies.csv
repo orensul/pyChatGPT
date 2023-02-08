@@ -1,0 +1,26 @@
+base_subject,base_field,target_subject,target_field,mappings
+genetic mutation,Genetics,bacterial growth,Microbiology,"DNA : DNA
+Gene : Gene
+Alleles : Plasmid
+Mutation : Transformation
+Chromosomes : Colony"
+rock formation,Geology,gene expression,Genetics,"Layers of sedimentary rock : Chromosomes
+Lithification : DNA Replication
+Weathering : Transcription
+Erosion : Translation
+Metamorphism : Protein Synthesis"
+acid-base reactions,Chemistry,social interactions,Psychology,"Acids : Dominant Individuals
+Bases : Submissive Individuals
+Reaction : Interaction
+Products : Outcome of Interaction
+Equilibrium : Balance in Interactions"
+DNA,Biochemistry,encryption algorithms,Cryptography,"Base pairs : bits
+Sugar-phosphate backbone : key
+Nucleotides : cipher
+Double helix structure : encryption process
+Replication : decryption"
+planets,Astronomy,rocks,Geology,"Orbit : Formation
+Gravity : Magnetic Field
+Atmosphere : Physical Properties
+Surface : Composition
+Moons : Minerals"

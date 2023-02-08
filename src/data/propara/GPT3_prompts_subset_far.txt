@@ -1,0 +1,211 @@
+Your task is to write an analogous process in a TARGET_DOMAIN given PARAGRAPH a SUBJECT
+The TARGET_DOMAIN is the academic field of the TARGET_PARAGRAPH.
+Inputs: PARAGRAPH, SUBJECT, TARGET_DOMAIN
+Outputs: TARGET_PARAGRAPH, SUBJECT, MAPPINGS
+
+Inputs:
+PARAGRAPH:
+Blood enters the kidney.
+The blood travels into the neophrons.
+Waste is expelled via the neophrons.
+The waste goes to the bladder in the form of urine.
+The clean blood exits the kidneys to the heart.
+SUBJECT: How do kidneys filter blood?
+TARGET_DOMAIN: Mechanical Engineering
+Outputs:
+TARGET_PARAGRAPH:
+Fuel filters are used in internal combustion engines to clean fuel before it enters the engine.
+The filter captures any debris, dirt, or other particulates that may have entered the fuel tank, preventing them from entering the engine.
+The fuel passes through the filter several times to ensure that all debris is removed,
+before it is sent to the engine where it can be used to provide power.
+SUBJECT: How does a fuel filter work?
+MAPPINGS:
+kidney : internal combustion engine
+neophrons : fuel filters
+waste : debris
+blood : fuel
+bladder : fuel tank
+heart : engine
+
+Inputs:
+PARAGRAPH:
+Blood enters the kidney.
+The blood travels into the neophrons.
+Waste is expelled via the neophrons.
+The waste goes to the bladder in the form of urine.
+The clean blood exits the kidneys to the heart.
+SUBJECT: How do kidneys filter blood?
+TARGET_DOMAIN: Physics
+Outputs:
+TARGET_PARAGRAPH:
+Light enters a telescope.
+The light travels through the lenses of the telescope, where unwanted reflections are filtered out.
+The clear image then exits the telescope and is seen by the observer.
+The filtered reflections are discarded and do not continue on in the image.
+The filtered image is now ready for viewing.
+SUBJECT: How does a telescope filter light?
+MAPPINGS:
+Blood : Light
+Kidney : Telescope
+Neophrons : Lenses
+Waste : Unwanted Reflections
+Bladder : Observer
+Urine : Filtered Reflections
+Clean Blood : Filtered Image
+
+Inputs:
+PARAGRAPH:
+The battery generates electrical voltage.
+The electrical voltage causes electrons to move through the copper wire.
+The electrons pass through the resistor.
+The resistor decrease the voltage in the circuit.
+SUBJECT: How does the electrical circuit works?
+TARGET_DOMAIN: Mechanical Engineering
+Outputs:
+TARGET_PARAGRAPH:
+The pump creates pressure.
+The pressure causes the water to flow through the pipe.
+Flowing water through the water pump is controlled by a partially closing valve.
+This partially closing valve reduces the flow rate of water in the pipe.
+SUBJECT: How does a mechanical system of water pump works?
+MAPPINGS:
+battery : pump
+copper wire : pipe
+electrons : water
+resistor : partially closing valve
+
+Inputs:
+PARAGRAPH:
+The battery generates electrical voltage.
+The electrical voltage causes electrons to move through the copper wire.
+The electrons pass through the resistor.
+The resistor decrease the voltage in the circuit.
+SUBJECT: How does the electrical circuit works?
+TARGET_DOMAIN: Biology
+Outputs:
+TARGET_PARAGRAPH:
+The heart pumps blood.
+The blood is propelled through the veins by the force of the heart's contraction.
+The blood passes through the capillaries where diffusion occurs.
+The capillaries decrease the pressure of the blood in the circulatory system.
+SUBJECT: How does the circulatory system work?
+MAPPINGS:
+battery : heart
+copper wire : veins
+electrons : blood
+resistor : capillaries
+
+Inputs:
+PARAGRAPH:
+The battery generates electrical voltage.
+The electrical voltage causes electrons to move through the copper wire.
+The electrons pass through the resistor.
+The resistor decrease the voltage in the circuit.
+SUBJECT: How does the electrical circuit works?
+TARGET_DOMAIN: Chemistry
+Outputs:
+TARGET_PARAGRAPH:
+A chemical reaction generates heat.
+The heat causes the molecules to move through the solution.
+The molecules pass through the catalyst where their reactivity is increased.
+The catalyst decreases the activation energy of the reaction.
+SUBJECT: How does a catalytic reaction work?
+MAPPINGS:
+battery : chemical reaction
+copper wire : solution
+electrons : molecules
+resistor : catalyst
+
+Inputs:
+PARAGRAPH:
+Carbon dioxide enters the leaf through the stomates.
+Water is absorbed by the plant and transported to the leaves.
+Sunlight is captured by the plant.
+Energy in the form of ATP is made from the sun's energy.
+Carbon dioxide, water, and ATP form sugars via the Calvin cycle.
+Oxygen is given off as a byproduct.
+Oxygen leaves the leaf through the stomates.
+Water is reused or Water leaves the leaf.
+The sugars can be used by the plant to make cellulose.
+SUBJECT: What happens during photosynthesis?
+TARGET_DOMAIN: Electrical Engineering
+Outputs:
+TARGET_PARAGRAPH:
+Photovoltaic cells, made of semi-conductive material, capture photons from sunlight and release electrons that flow as a direct current.
+This direct current is then converted into usable alternating current by an inverter.
+This alternating current can be fed into the electrical grid or stored for later use.
+SUBJECT: How does a solar panel works?
+MAPPINGS:
+light : sunlight
+leaves in the plants : photovoltaic cells
+chemical energy : electrical energy.
+Calvin cycle : inverter
+sugars : alternating current
+
+Inputs:
+PARAGRAPH:
+A person takes in oxygen through their nose or mouth.
+The oxygen travels into the body.
+Breaks down into glucose.
+Carbon dioxide is produced by the glucose breakdown.
+The carbon dioxide is exhaled out of the body through the nose or mouth.
+SUBJECT: What happens during respiration?
+TARGET_DOMAIN: Chemical Engineering
+Outputs:
+TARGET_PARAGRAPH:
+A car takes in gasoline through the fuel cap.
+The gasoline is pumped into the engine.
+The gasoline is broken down into combustible gases.
+The combustible gases are ignited by spark plugs.
+The combustion creates energy and exhaust.
+The exhaust is expelled from the car through the tailpipe.
+SUBJECT: What happens during combustion?
+MAPPINGS:
+oxygen : gasoline
+glucose : combustible gases
+carbon dioxide : exhaust
+
+Inputs:
+PARAGRAPH:
+Coal is heated in the boiler.
+The water tank over the boiler is heated.
+Creates steam.
+The steam is funneled to the piston.
+Piston uses the steam as energy.
+The piston causes the crankshaft to move.
+SUBJECT: How does a steam engine work?
+TARGET_DOMAIN: Mechanical Engineering
+Outputs:
+TARGET_PARAGRAPH:
+The water flows into the wheel, causing it to turn.
+As the wheel turns, it drives a mechanical system,
+such as a millstone or a generator, which performs work.
+The flow of water provides the energy to keep the wheel turning,
+allowing it to perform work over an extended period of time.
+SUBJECT: How does a waterwheel work?
+MAPPINGS:
+steam : water
+piston : wheel
+crankshaft : mechanical system (millstone or generator)
+
+Inputs:
+PARAGRAPH:
+Sound enters the ears of a person.
+The sound hits a drum that is inside the ear.
+The drum inside the ear converts the sound to electrical impulses.
+The electrical impulses are sent to the brain.
+The brain can decode the impulses into sound.
+SUBJECT: How does the human auditory system work?
+TARGET_DOMAIN: Electrical Engineering
+Outputs:
+TARGET_PARAGRAPH:
+A person speaks into a telephone, the sound waves are transformed into an electrical current by the microphone.
+This electrical current is sent over the telephone line to the recipient's telephone.
+At the recipient's telephone, the electrical current is converted back into sound waves by the speaker.
+The recipient can then hear the message that was sent from the first person.
+SUBJECT: How does the telephone system work?
+MAPPINGS:
+Sound source : person speaking
+Ear drum : microphone
+Electrical impulses : electrical current
+Brain : recipient's telephone speaker

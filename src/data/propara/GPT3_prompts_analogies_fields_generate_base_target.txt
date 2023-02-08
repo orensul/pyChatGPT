@@ -1,0 +1,108 @@
+BASE FIELD: Oceanography
+BASE: water waves
+TARGET FIELD: Acoustics
+TARGET:  sound waves
+MAPPINGS:
+waves : sounds
+water : air
+shore : ear
+breakwater : wall
+
+BASE FIELD: Physiology
+BASE: respiration
+TARGET FIELD: Thermodynamics
+TARGET: combustion
+MAPPINGS:
+animal : fire
+food : fuel
+respiration : combustion
+
+BASE FIELD: Electrical Engineering
+BASE: electrical circuit
+TARGET FIELD: Mechanical Engineering
+TARGET: water pump
+MAPPINGS:
+voltage : pressure
+conductor : pipe
+resistance : valve
+current : flow
+
+BASE FIELD: Solar Energy Engineering
+BASE: solar panel
+TARGET FIELD: Plant Physiology
+TARGET: photosynthesis
+MAPPINGS:
+light : sunlight
+leaves in the plants : photovoltaic cells
+chemical energy : electrical energy.
+Calvin cycle : inverter
+sugars : alternating current
+
+BASE FIELD: Cytology
+BASE: animal cell
+TARGET FIELD: Industrial Engineering
+TARGET: factory
+MAPPINGS:
+plasma membrane : security guards
+animal cell : the factory
+nucleus : control center
+mitochondria : electrical generators
+proteins : products
+ribosomes : machines
+endoplasmic reticulum : hallways
+
+BASE FIELD: Ichthyology
+BASE: life cycle of a fish
+TARGET FIELD: Botany
+TARGET: life cycle of a plant
+MAPPINGS:
+female fish : female plant
+eggs : seeds
+larvae : sprouts
+juvenile fish : young plants
+adult fish : adult plants
+
+BASE FIELD: Audiology
+BASE: human auditory system
+TARGET FIELD: Telecommunications
+TARGET: telephone system
+MAPPINGS:
+Sound source : person speaking
+Ear drum : microphone
+Electrical impulses : electrical current
+Brain : recipient's telephone speaker
+
+BASE FIELD: Computer Science
+BASE: software development
+TARGET FIELD: Architecture
+TARGET: building construction
+MAPPINGS:
+Code : blueprints
+Debugging : inspecting
+Testing : surveying
+Deployment : erection
+Maintenance : renovation
+
+BASE FIELD: Mechanics
+BASE: Newton's laws of motion
+TARGET FIELD: Economics
+TARGET: supply and demand
+MAPPINGS:
+Force : consumer demand
+Acceleration : changes in price
+Mass : quantity of goods
+Inertia : stability of prices
+Action-reaction : market forces
+
+BASE FIELD: Physiology
+BASE: circulatory system
+TARGET FIELD: Hydrology
+TARGET: river system
+MAPPINGS:
+Heart : Source
+Arteries : Tributaries
+Veins : Main River
+Blood : Water
+Capillaries : Streams
+
+BASE FIELD:
